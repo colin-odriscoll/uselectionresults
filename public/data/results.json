@@ -1,0 +1,5269 @@
+{
+  "schemaVersion": 1,
+  "electionDate": "2026-11-03",
+  "generatedAt": "2026-11-02T18:00:00Z",
+  "states": [
+    {
+      "code": "AL",
+      "name": "Alabama"
+    },
+    {
+      "code": "AK",
+      "name": "Alaska"
+    },
+    {
+      "code": "AZ",
+      "name": "Arizona"
+    },
+    {
+      "code": "AR",
+      "name": "Arkansas"
+    },
+    {
+      "code": "CA",
+      "name": "California"
+    },
+    {
+      "code": "CO",
+      "name": "Colorado"
+    },
+    {
+      "code": "CT",
+      "name": "Connecticut"
+    },
+    {
+      "code": "DE",
+      "name": "Delaware"
+    },
+    {
+      "code": "FL",
+      "name": "Florida"
+    },
+    {
+      "code": "GA",
+      "name": "Georgia"
+    },
+    {
+      "code": "HI",
+      "name": "Hawaii"
+    },
+    {
+      "code": "ID",
+      "name": "Idaho"
+    },
+    {
+      "code": "IL",
+      "name": "Illinois"
+    },
+    {
+      "code": "IN",
+      "name": "Indiana"
+    },
+    {
+      "code": "IA",
+      "name": "Iowa"
+    },
+    {
+      "code": "KS",
+      "name": "Kansas"
+    },
+    {
+      "code": "KY",
+      "name": "Kentucky"
+    },
+    {
+      "code": "LA",
+      "name": "Louisiana"
+    },
+    {
+      "code": "ME",
+      "name": "Maine"
+    },
+    {
+      "code": "MD",
+      "name": "Maryland"
+    },
+    {
+      "code": "MA",
+      "name": "Massachusetts"
+    },
+    {
+      "code": "MI",
+      "name": "Michigan"
+    },
+    {
+      "code": "MN",
+      "name": "Minnesota"
+    },
+    {
+      "code": "MS",
+      "name": "Mississippi"
+    },
+    {
+      "code": "MO",
+      "name": "Missouri"
+    },
+    {
+      "code": "MT",
+      "name": "Montana"
+    },
+    {
+      "code": "NE",
+      "name": "Nebraska"
+    },
+    {
+      "code": "NV",
+      "name": "Nevada"
+    },
+    {
+      "code": "NH",
+      "name": "New Hampshire"
+    },
+    {
+      "code": "NJ",
+      "name": "New Jersey"
+    },
+    {
+      "code": "NM",
+      "name": "New Mexico"
+    },
+    {
+      "code": "NY",
+      "name": "New York"
+    },
+    {
+      "code": "NC",
+      "name": "North Carolina"
+    },
+    {
+      "code": "ND",
+      "name": "North Dakota"
+    },
+    {
+      "code": "OH",
+      "name": "Ohio"
+    },
+    {
+      "code": "OK",
+      "name": "Oklahoma"
+    },
+    {
+      "code": "OR",
+      "name": "Oregon"
+    },
+    {
+      "code": "PA",
+      "name": "Pennsylvania"
+    },
+    {
+      "code": "RI",
+      "name": "Rhode Island"
+    },
+    {
+      "code": "SC",
+      "name": "South Carolina"
+    },
+    {
+      "code": "SD",
+      "name": "South Dakota"
+    },
+    {
+      "code": "TN",
+      "name": "Tennessee"
+    },
+    {
+      "code": "TX",
+      "name": "Texas"
+    },
+    {
+      "code": "UT",
+      "name": "Utah"
+    },
+    {
+      "code": "VT",
+      "name": "Vermont"
+    },
+    {
+      "code": "VA",
+      "name": "Virginia"
+    },
+    {
+      "code": "WA",
+      "name": "Washington"
+    },
+    {
+      "code": "WV",
+      "name": "West Virginia"
+    },
+    {
+      "code": "WI",
+      "name": "Wisconsin"
+    },
+    {
+      "code": "WY",
+      "name": "Wyoming"
+    }
+  ],
+  "races": [
+    {
+      "id": "AL-house-01",
+      "state": "AL",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AL-house-02",
+      "state": "AL",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AL-house-03",
+      "state": "AL",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AL-house-04",
+      "state": "AL",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AL-house-05",
+      "state": "AL",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AL-house-06",
+      "state": "AL",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AL-house-07",
+      "state": "AL",
+      "office": "house",
+      "label": "District 7",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AL-senate-2",
+      "state": "AL",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AL-governor-general",
+      "state": "AL",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AK-house-AL",
+      "state": "AK",
+      "office": "house",
+      "label": "At-large",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AK-senate-2",
+      "state": "AK",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AK-governor-general",
+      "state": "AK",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AZ-house-01",
+      "state": "AZ",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AZ-house-02",
+      "state": "AZ",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AZ-house-03",
+      "state": "AZ",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AZ-house-04",
+      "state": "AZ",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AZ-house-05",
+      "state": "AZ",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AZ-house-06",
+      "state": "AZ",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AZ-house-07",
+      "state": "AZ",
+      "office": "house",
+      "label": "District 7",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AZ-house-08",
+      "state": "AZ",
+      "office": "house",
+      "label": "District 8",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AZ-house-09",
+      "state": "AZ",
+      "office": "house",
+      "label": "District 9",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AZ-governor-general",
+      "state": "AZ",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AR-house-01",
+      "state": "AR",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AR-house-02",
+      "state": "AR",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AR-house-03",
+      "state": "AR",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AR-house-04",
+      "state": "AR",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AR-senate-2",
+      "state": "AR",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "AR-governor-general",
+      "state": "AR",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-01",
+      "state": "CA",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-02",
+      "state": "CA",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-03",
+      "state": "CA",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-04",
+      "state": "CA",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-05",
+      "state": "CA",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-06",
+      "state": "CA",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-07",
+      "state": "CA",
+      "office": "house",
+      "label": "District 7",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-08",
+      "state": "CA",
+      "office": "house",
+      "label": "District 8",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-09",
+      "state": "CA",
+      "office": "house",
+      "label": "District 9",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-10",
+      "state": "CA",
+      "office": "house",
+      "label": "District 10",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-11",
+      "state": "CA",
+      "office": "house",
+      "label": "District 11",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-12",
+      "state": "CA",
+      "office": "house",
+      "label": "District 12",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-13",
+      "state": "CA",
+      "office": "house",
+      "label": "District 13",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-14",
+      "state": "CA",
+      "office": "house",
+      "label": "District 14",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-15",
+      "state": "CA",
+      "office": "house",
+      "label": "District 15",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-16",
+      "state": "CA",
+      "office": "house",
+      "label": "District 16",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-17",
+      "state": "CA",
+      "office": "house",
+      "label": "District 17",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-18",
+      "state": "CA",
+      "office": "house",
+      "label": "District 18",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-19",
+      "state": "CA",
+      "office": "house",
+      "label": "District 19",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-20",
+      "state": "CA",
+      "office": "house",
+      "label": "District 20",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-21",
+      "state": "CA",
+      "office": "house",
+      "label": "District 21",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-22",
+      "state": "CA",
+      "office": "house",
+      "label": "District 22",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-23",
+      "state": "CA",
+      "office": "house",
+      "label": "District 23",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-24",
+      "state": "CA",
+      "office": "house",
+      "label": "District 24",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-25",
+      "state": "CA",
+      "office": "house",
+      "label": "District 25",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-26",
+      "state": "CA",
+      "office": "house",
+      "label": "District 26",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-27",
+      "state": "CA",
+      "office": "house",
+      "label": "District 27",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-28",
+      "state": "CA",
+      "office": "house",
+      "label": "District 28",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-29",
+      "state": "CA",
+      "office": "house",
+      "label": "District 29",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-30",
+      "state": "CA",
+      "office": "house",
+      "label": "District 30",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-31",
+      "state": "CA",
+      "office": "house",
+      "label": "District 31",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-32",
+      "state": "CA",
+      "office": "house",
+      "label": "District 32",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-33",
+      "state": "CA",
+      "office": "house",
+      "label": "District 33",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-34",
+      "state": "CA",
+      "office": "house",
+      "label": "District 34",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-35",
+      "state": "CA",
+      "office": "house",
+      "label": "District 35",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-36",
+      "state": "CA",
+      "office": "house",
+      "label": "District 36",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-37",
+      "state": "CA",
+      "office": "house",
+      "label": "District 37",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-38",
+      "state": "CA",
+      "office": "house",
+      "label": "District 38",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-39",
+      "state": "CA",
+      "office": "house",
+      "label": "District 39",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-40",
+      "state": "CA",
+      "office": "house",
+      "label": "District 40",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-41",
+      "state": "CA",
+      "office": "house",
+      "label": "District 41",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-42",
+      "state": "CA",
+      "office": "house",
+      "label": "District 42",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-43",
+      "state": "CA",
+      "office": "house",
+      "label": "District 43",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-44",
+      "state": "CA",
+      "office": "house",
+      "label": "District 44",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-45",
+      "state": "CA",
+      "office": "house",
+      "label": "District 45",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-46",
+      "state": "CA",
+      "office": "house",
+      "label": "District 46",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-47",
+      "state": "CA",
+      "office": "house",
+      "label": "District 47",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-48",
+      "state": "CA",
+      "office": "house",
+      "label": "District 48",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-49",
+      "state": "CA",
+      "office": "house",
+      "label": "District 49",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-50",
+      "state": "CA",
+      "office": "house",
+      "label": "District 50",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-51",
+      "state": "CA",
+      "office": "house",
+      "label": "District 51",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-house-52",
+      "state": "CA",
+      "office": "house",
+      "label": "District 52",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CA-governor-general",
+      "state": "CA",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CO-house-01",
+      "state": "CO",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CO-house-02",
+      "state": "CO",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CO-house-03",
+      "state": "CO",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CO-house-04",
+      "state": "CO",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CO-house-05",
+      "state": "CO",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CO-house-06",
+      "state": "CO",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CO-house-07",
+      "state": "CO",
+      "office": "house",
+      "label": "District 7",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CO-house-08",
+      "state": "CO",
+      "office": "house",
+      "label": "District 8",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CO-senate-2",
+      "state": "CO",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CO-governor-general",
+      "state": "CO",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CT-house-01",
+      "state": "CT",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CT-house-02",
+      "state": "CT",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CT-house-03",
+      "state": "CT",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CT-house-04",
+      "state": "CT",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CT-house-05",
+      "state": "CT",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "CT-governor-general",
+      "state": "CT",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "DE-house-AL",
+      "state": "DE",
+      "office": "house",
+      "label": "At-large",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "DE-senate-2",
+      "state": "DE",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-01",
+      "state": "FL",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-02",
+      "state": "FL",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-03",
+      "state": "FL",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-04",
+      "state": "FL",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-05",
+      "state": "FL",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-06",
+      "state": "FL",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-07",
+      "state": "FL",
+      "office": "house",
+      "label": "District 7",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-08",
+      "state": "FL",
+      "office": "house",
+      "label": "District 8",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-09",
+      "state": "FL",
+      "office": "house",
+      "label": "District 9",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-10",
+      "state": "FL",
+      "office": "house",
+      "label": "District 10",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-11",
+      "state": "FL",
+      "office": "house",
+      "label": "District 11",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-12",
+      "state": "FL",
+      "office": "house",
+      "label": "District 12",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-13",
+      "state": "FL",
+      "office": "house",
+      "label": "District 13",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-14",
+      "state": "FL",
+      "office": "house",
+      "label": "District 14",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-15",
+      "state": "FL",
+      "office": "house",
+      "label": "District 15",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-16",
+      "state": "FL",
+      "office": "house",
+      "label": "District 16",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-17",
+      "state": "FL",
+      "office": "house",
+      "label": "District 17",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-18",
+      "state": "FL",
+      "office": "house",
+      "label": "District 18",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-19",
+      "state": "FL",
+      "office": "house",
+      "label": "District 19",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-20",
+      "state": "FL",
+      "office": "house",
+      "label": "District 20",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-21",
+      "state": "FL",
+      "office": "house",
+      "label": "District 21",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-22",
+      "state": "FL",
+      "office": "house",
+      "label": "District 22",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-23",
+      "state": "FL",
+      "office": "house",
+      "label": "District 23",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-24",
+      "state": "FL",
+      "office": "house",
+      "label": "District 24",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-25",
+      "state": "FL",
+      "office": "house",
+      "label": "District 25",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-26",
+      "state": "FL",
+      "office": "house",
+      "label": "District 26",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-27",
+      "state": "FL",
+      "office": "house",
+      "label": "District 27",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-house-28",
+      "state": "FL",
+      "office": "house",
+      "label": "District 28",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-senate-3-special",
+      "state": "FL",
+      "office": "senate",
+      "label": "U.S. Senate · Special election",
+      "special": true,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "FL-governor-general",
+      "state": "FL",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "GA-house-01",
+      "state": "GA",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "GA-house-02",
+      "state": "GA",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "GA-house-03",
+      "state": "GA",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "GA-house-04",
+      "state": "GA",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "GA-house-05",
+      "state": "GA",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "GA-house-06",
+      "state": "GA",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "GA-house-07",
+      "state": "GA",
+      "office": "house",
+      "label": "District 7",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "GA-house-08",
+      "state": "GA",
+      "office": "house",
+      "label": "District 8",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "GA-house-09",
+      "state": "GA",
+      "office": "house",
+      "label": "District 9",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "GA-house-10",
+      "state": "GA",
+      "office": "house",
+      "label": "District 10",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "GA-house-11",
+      "state": "GA",
+      "office": "house",
+      "label": "District 11",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "GA-house-12",
+      "state": "GA",
+      "office": "house",
+      "label": "District 12",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "GA-house-13",
+      "state": "GA",
+      "office": "house",
+      "label": "District 13",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "GA-house-14",
+      "state": "GA",
+      "office": "house",
+      "label": "District 14",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "GA-senate-2",
+      "state": "GA",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "GA-governor-general",
+      "state": "GA",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "HI-house-01",
+      "state": "HI",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "HI-house-02",
+      "state": "HI",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "HI-governor-general",
+      "state": "HI",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "ID-house-01",
+      "state": "ID",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "ID-house-02",
+      "state": "ID",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "ID-senate-2",
+      "state": "ID",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "ID-governor-general",
+      "state": "ID",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IL-house-01",
+      "state": "IL",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IL-house-02",
+      "state": "IL",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IL-house-03",
+      "state": "IL",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IL-house-04",
+      "state": "IL",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IL-house-05",
+      "state": "IL",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IL-house-06",
+      "state": "IL",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IL-house-07",
+      "state": "IL",
+      "office": "house",
+      "label": "District 7",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IL-house-08",
+      "state": "IL",
+      "office": "house",
+      "label": "District 8",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IL-house-09",
+      "state": "IL",
+      "office": "house",
+      "label": "District 9",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IL-house-10",
+      "state": "IL",
+      "office": "house",
+      "label": "District 10",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IL-house-11",
+      "state": "IL",
+      "office": "house",
+      "label": "District 11",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IL-house-12",
+      "state": "IL",
+      "office": "house",
+      "label": "District 12",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IL-house-13",
+      "state": "IL",
+      "office": "house",
+      "label": "District 13",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IL-house-14",
+      "state": "IL",
+      "office": "house",
+      "label": "District 14",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IL-house-15",
+      "state": "IL",
+      "office": "house",
+      "label": "District 15",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IL-house-16",
+      "state": "IL",
+      "office": "house",
+      "label": "District 16",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IL-house-17",
+      "state": "IL",
+      "office": "house",
+      "label": "District 17",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IL-senate-2",
+      "state": "IL",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IL-governor-general",
+      "state": "IL",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IN-house-01",
+      "state": "IN",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IN-house-02",
+      "state": "IN",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IN-house-03",
+      "state": "IN",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IN-house-04",
+      "state": "IN",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IN-house-05",
+      "state": "IN",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IN-house-06",
+      "state": "IN",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IN-house-07",
+      "state": "IN",
+      "office": "house",
+      "label": "District 7",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IN-house-08",
+      "state": "IN",
+      "office": "house",
+      "label": "District 8",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IN-house-09",
+      "state": "IN",
+      "office": "house",
+      "label": "District 9",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IA-house-01",
+      "state": "IA",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IA-house-02",
+      "state": "IA",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IA-house-03",
+      "state": "IA",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IA-house-04",
+      "state": "IA",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IA-senate-2",
+      "state": "IA",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "IA-governor-general",
+      "state": "IA",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "KS-house-01",
+      "state": "KS",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "KS-house-02",
+      "state": "KS",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "KS-house-03",
+      "state": "KS",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "KS-house-04",
+      "state": "KS",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "KS-senate-2",
+      "state": "KS",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "KS-governor-general",
+      "state": "KS",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "KY-house-01",
+      "state": "KY",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "KY-house-02",
+      "state": "KY",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "KY-house-03",
+      "state": "KY",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "KY-house-04",
+      "state": "KY",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "KY-house-05",
+      "state": "KY",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "KY-house-06",
+      "state": "KY",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "KY-senate-2",
+      "state": "KY",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "LA-house-01",
+      "state": "LA",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "LA-house-02",
+      "state": "LA",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "LA-house-03",
+      "state": "LA",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "LA-house-04",
+      "state": "LA",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "LA-house-05",
+      "state": "LA",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "LA-house-06",
+      "state": "LA",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "LA-senate-2",
+      "state": "LA",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "ME-house-01",
+      "state": "ME",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "ME-house-02",
+      "state": "ME",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "ME-senate-2",
+      "state": "ME",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "ME-governor-general",
+      "state": "ME",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MD-house-01",
+      "state": "MD",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MD-house-02",
+      "state": "MD",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MD-house-03",
+      "state": "MD",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MD-house-04",
+      "state": "MD",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MD-house-05",
+      "state": "MD",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MD-house-06",
+      "state": "MD",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MD-house-07",
+      "state": "MD",
+      "office": "house",
+      "label": "District 7",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MD-house-08",
+      "state": "MD",
+      "office": "house",
+      "label": "District 8",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MD-governor-general",
+      "state": "MD",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MA-house-01",
+      "state": "MA",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MA-house-02",
+      "state": "MA",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MA-house-03",
+      "state": "MA",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MA-house-04",
+      "state": "MA",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MA-house-05",
+      "state": "MA",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MA-house-06",
+      "state": "MA",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MA-house-07",
+      "state": "MA",
+      "office": "house",
+      "label": "District 7",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MA-house-08",
+      "state": "MA",
+      "office": "house",
+      "label": "District 8",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MA-house-09",
+      "state": "MA",
+      "office": "house",
+      "label": "District 9",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MA-senate-2",
+      "state": "MA",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MA-governor-general",
+      "state": "MA",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MI-house-01",
+      "state": "MI",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MI-house-02",
+      "state": "MI",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MI-house-03",
+      "state": "MI",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MI-house-04",
+      "state": "MI",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MI-house-05",
+      "state": "MI",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MI-house-06",
+      "state": "MI",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MI-house-07",
+      "state": "MI",
+      "office": "house",
+      "label": "District 7",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MI-house-08",
+      "state": "MI",
+      "office": "house",
+      "label": "District 8",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MI-house-09",
+      "state": "MI",
+      "office": "house",
+      "label": "District 9",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MI-house-10",
+      "state": "MI",
+      "office": "house",
+      "label": "District 10",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MI-house-11",
+      "state": "MI",
+      "office": "house",
+      "label": "District 11",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MI-house-12",
+      "state": "MI",
+      "office": "house",
+      "label": "District 12",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MI-house-13",
+      "state": "MI",
+      "office": "house",
+      "label": "District 13",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MI-senate-2",
+      "state": "MI",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MI-governor-general",
+      "state": "MI",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MN-house-01",
+      "state": "MN",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MN-house-02",
+      "state": "MN",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MN-house-03",
+      "state": "MN",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MN-house-04",
+      "state": "MN",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MN-house-05",
+      "state": "MN",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MN-house-06",
+      "state": "MN",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MN-house-07",
+      "state": "MN",
+      "office": "house",
+      "label": "District 7",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MN-house-08",
+      "state": "MN",
+      "office": "house",
+      "label": "District 8",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MN-senate-2",
+      "state": "MN",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MN-governor-general",
+      "state": "MN",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MS-house-01",
+      "state": "MS",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MS-house-02",
+      "state": "MS",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MS-house-03",
+      "state": "MS",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MS-house-04",
+      "state": "MS",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MS-senate-2",
+      "state": "MS",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MO-house-01",
+      "state": "MO",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MO-house-02",
+      "state": "MO",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MO-house-03",
+      "state": "MO",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MO-house-04",
+      "state": "MO",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MO-house-05",
+      "state": "MO",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MO-house-06",
+      "state": "MO",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MO-house-07",
+      "state": "MO",
+      "office": "house",
+      "label": "District 7",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MO-house-08",
+      "state": "MO",
+      "office": "house",
+      "label": "District 8",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MT-house-01",
+      "state": "MT",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MT-house-02",
+      "state": "MT",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "MT-senate-2",
+      "state": "MT",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NE-house-01",
+      "state": "NE",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NE-house-02",
+      "state": "NE",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NE-house-03",
+      "state": "NE",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NE-senate-2",
+      "state": "NE",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NE-governor-general",
+      "state": "NE",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NV-house-01",
+      "state": "NV",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NV-house-02",
+      "state": "NV",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NV-house-03",
+      "state": "NV",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NV-house-04",
+      "state": "NV",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NV-governor-general",
+      "state": "NV",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NH-house-01",
+      "state": "NH",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NH-house-02",
+      "state": "NH",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NH-senate-2",
+      "state": "NH",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NH-governor-general",
+      "state": "NH",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NJ-house-01",
+      "state": "NJ",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NJ-house-02",
+      "state": "NJ",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NJ-house-03",
+      "state": "NJ",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NJ-house-04",
+      "state": "NJ",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NJ-house-05",
+      "state": "NJ",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NJ-house-06",
+      "state": "NJ",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NJ-house-07",
+      "state": "NJ",
+      "office": "house",
+      "label": "District 7",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NJ-house-08",
+      "state": "NJ",
+      "office": "house",
+      "label": "District 8",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NJ-house-09",
+      "state": "NJ",
+      "office": "house",
+      "label": "District 9",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NJ-house-10",
+      "state": "NJ",
+      "office": "house",
+      "label": "District 10",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NJ-house-11",
+      "state": "NJ",
+      "office": "house",
+      "label": "District 11",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NJ-house-12",
+      "state": "NJ",
+      "office": "house",
+      "label": "District 12",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NJ-senate-2",
+      "state": "NJ",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NM-house-01",
+      "state": "NM",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NM-house-02",
+      "state": "NM",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NM-house-03",
+      "state": "NM",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NM-senate-2",
+      "state": "NM",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NM-governor-general",
+      "state": "NM",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-01",
+      "state": "NY",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-02",
+      "state": "NY",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-03",
+      "state": "NY",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-04",
+      "state": "NY",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-05",
+      "state": "NY",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-06",
+      "state": "NY",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-07",
+      "state": "NY",
+      "office": "house",
+      "label": "District 7",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-08",
+      "state": "NY",
+      "office": "house",
+      "label": "District 8",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-09",
+      "state": "NY",
+      "office": "house",
+      "label": "District 9",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-10",
+      "state": "NY",
+      "office": "house",
+      "label": "District 10",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-11",
+      "state": "NY",
+      "office": "house",
+      "label": "District 11",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-12",
+      "state": "NY",
+      "office": "house",
+      "label": "District 12",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-13",
+      "state": "NY",
+      "office": "house",
+      "label": "District 13",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-14",
+      "state": "NY",
+      "office": "house",
+      "label": "District 14",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-15",
+      "state": "NY",
+      "office": "house",
+      "label": "District 15",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-16",
+      "state": "NY",
+      "office": "house",
+      "label": "District 16",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-17",
+      "state": "NY",
+      "office": "house",
+      "label": "District 17",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-18",
+      "state": "NY",
+      "office": "house",
+      "label": "District 18",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-19",
+      "state": "NY",
+      "office": "house",
+      "label": "District 19",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-20",
+      "state": "NY",
+      "office": "house",
+      "label": "District 20",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-21",
+      "state": "NY",
+      "office": "house",
+      "label": "District 21",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-22",
+      "state": "NY",
+      "office": "house",
+      "label": "District 22",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-23",
+      "state": "NY",
+      "office": "house",
+      "label": "District 23",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-24",
+      "state": "NY",
+      "office": "house",
+      "label": "District 24",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-25",
+      "state": "NY",
+      "office": "house",
+      "label": "District 25",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-house-26",
+      "state": "NY",
+      "office": "house",
+      "label": "District 26",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NY-governor-general",
+      "state": "NY",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NC-house-01",
+      "state": "NC",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NC-house-02",
+      "state": "NC",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NC-house-03",
+      "state": "NC",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NC-house-04",
+      "state": "NC",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NC-house-05",
+      "state": "NC",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NC-house-06",
+      "state": "NC",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NC-house-07",
+      "state": "NC",
+      "office": "house",
+      "label": "District 7",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NC-house-08",
+      "state": "NC",
+      "office": "house",
+      "label": "District 8",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NC-house-09",
+      "state": "NC",
+      "office": "house",
+      "label": "District 9",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NC-house-10",
+      "state": "NC",
+      "office": "house",
+      "label": "District 10",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NC-house-11",
+      "state": "NC",
+      "office": "house",
+      "label": "District 11",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NC-house-12",
+      "state": "NC",
+      "office": "house",
+      "label": "District 12",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NC-house-13",
+      "state": "NC",
+      "office": "house",
+      "label": "District 13",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NC-house-14",
+      "state": "NC",
+      "office": "house",
+      "label": "District 14",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "NC-senate-2",
+      "state": "NC",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "ND-house-AL",
+      "state": "ND",
+      "office": "house",
+      "label": "At-large",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OH-house-01",
+      "state": "OH",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OH-house-02",
+      "state": "OH",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OH-house-03",
+      "state": "OH",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OH-house-04",
+      "state": "OH",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OH-house-05",
+      "state": "OH",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OH-house-06",
+      "state": "OH",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OH-house-07",
+      "state": "OH",
+      "office": "house",
+      "label": "District 7",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OH-house-08",
+      "state": "OH",
+      "office": "house",
+      "label": "District 8",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OH-house-09",
+      "state": "OH",
+      "office": "house",
+      "label": "District 9",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OH-house-10",
+      "state": "OH",
+      "office": "house",
+      "label": "District 10",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OH-house-11",
+      "state": "OH",
+      "office": "house",
+      "label": "District 11",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OH-house-12",
+      "state": "OH",
+      "office": "house",
+      "label": "District 12",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OH-house-13",
+      "state": "OH",
+      "office": "house",
+      "label": "District 13",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OH-house-14",
+      "state": "OH",
+      "office": "house",
+      "label": "District 14",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OH-house-15",
+      "state": "OH",
+      "office": "house",
+      "label": "District 15",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OH-senate-3-special",
+      "state": "OH",
+      "office": "senate",
+      "label": "U.S. Senate · Special election",
+      "special": true,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OH-governor-general",
+      "state": "OH",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OK-house-01",
+      "state": "OK",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OK-house-02",
+      "state": "OK",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OK-house-03",
+      "state": "OK",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OK-house-04",
+      "state": "OK",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OK-house-05",
+      "state": "OK",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OK-senate-2",
+      "state": "OK",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OK-governor-general",
+      "state": "OK",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OR-house-01",
+      "state": "OR",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OR-house-02",
+      "state": "OR",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OR-house-03",
+      "state": "OR",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OR-house-04",
+      "state": "OR",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OR-house-05",
+      "state": "OR",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OR-house-06",
+      "state": "OR",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OR-senate-2",
+      "state": "OR",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "OR-governor-general",
+      "state": "OR",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "PA-house-01",
+      "state": "PA",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "PA-house-02",
+      "state": "PA",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "PA-house-03",
+      "state": "PA",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "PA-house-04",
+      "state": "PA",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "PA-house-05",
+      "state": "PA",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "PA-house-06",
+      "state": "PA",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "PA-house-07",
+      "state": "PA",
+      "office": "house",
+      "label": "District 7",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "PA-house-08",
+      "state": "PA",
+      "office": "house",
+      "label": "District 8",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "PA-house-09",
+      "state": "PA",
+      "office": "house",
+      "label": "District 9",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "PA-house-10",
+      "state": "PA",
+      "office": "house",
+      "label": "District 10",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "PA-house-11",
+      "state": "PA",
+      "office": "house",
+      "label": "District 11",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "PA-house-12",
+      "state": "PA",
+      "office": "house",
+      "label": "District 12",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "PA-house-13",
+      "state": "PA",
+      "office": "house",
+      "label": "District 13",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "PA-house-14",
+      "state": "PA",
+      "office": "house",
+      "label": "District 14",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "PA-house-15",
+      "state": "PA",
+      "office": "house",
+      "label": "District 15",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "PA-house-16",
+      "state": "PA",
+      "office": "house",
+      "label": "District 16",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "PA-house-17",
+      "state": "PA",
+      "office": "house",
+      "label": "District 17",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "PA-governor-general",
+      "state": "PA",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "RI-house-01",
+      "state": "RI",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "RI-house-02",
+      "state": "RI",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "RI-senate-2",
+      "state": "RI",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "RI-governor-general",
+      "state": "RI",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "SC-house-01",
+      "state": "SC",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "SC-house-02",
+      "state": "SC",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "SC-house-03",
+      "state": "SC",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "SC-house-04",
+      "state": "SC",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "SC-house-05",
+      "state": "SC",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "SC-house-06",
+      "state": "SC",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "SC-house-07",
+      "state": "SC",
+      "office": "house",
+      "label": "District 7",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "SC-senate-2",
+      "state": "SC",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "SC-governor-general",
+      "state": "SC",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "SD-house-AL",
+      "state": "SD",
+      "office": "house",
+      "label": "At-large",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "SD-senate-2",
+      "state": "SD",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "SD-governor-general",
+      "state": "SD",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TN-house-01",
+      "state": "TN",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TN-house-02",
+      "state": "TN",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TN-house-03",
+      "state": "TN",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TN-house-04",
+      "state": "TN",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TN-house-05",
+      "state": "TN",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TN-house-06",
+      "state": "TN",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TN-house-07",
+      "state": "TN",
+      "office": "house",
+      "label": "District 7",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TN-house-08",
+      "state": "TN",
+      "office": "house",
+      "label": "District 8",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TN-house-09",
+      "state": "TN",
+      "office": "house",
+      "label": "District 9",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TN-senate-2",
+      "state": "TN",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TN-governor-general",
+      "state": "TN",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-01",
+      "state": "TX",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-02",
+      "state": "TX",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-03",
+      "state": "TX",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-04",
+      "state": "TX",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-05",
+      "state": "TX",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-06",
+      "state": "TX",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-07",
+      "state": "TX",
+      "office": "house",
+      "label": "District 7",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-08",
+      "state": "TX",
+      "office": "house",
+      "label": "District 8",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-09",
+      "state": "TX",
+      "office": "house",
+      "label": "District 9",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-10",
+      "state": "TX",
+      "office": "house",
+      "label": "District 10",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-11",
+      "state": "TX",
+      "office": "house",
+      "label": "District 11",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-12",
+      "state": "TX",
+      "office": "house",
+      "label": "District 12",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-13",
+      "state": "TX",
+      "office": "house",
+      "label": "District 13",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-14",
+      "state": "TX",
+      "office": "house",
+      "label": "District 14",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-15",
+      "state": "TX",
+      "office": "house",
+      "label": "District 15",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-16",
+      "state": "TX",
+      "office": "house",
+      "label": "District 16",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-17",
+      "state": "TX",
+      "office": "house",
+      "label": "District 17",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-18",
+      "state": "TX",
+      "office": "house",
+      "label": "District 18",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-19",
+      "state": "TX",
+      "office": "house",
+      "label": "District 19",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-20",
+      "state": "TX",
+      "office": "house",
+      "label": "District 20",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-21",
+      "state": "TX",
+      "office": "house",
+      "label": "District 21",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-22",
+      "state": "TX",
+      "office": "house",
+      "label": "District 22",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-23",
+      "state": "TX",
+      "office": "house",
+      "label": "District 23",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-24",
+      "state": "TX",
+      "office": "house",
+      "label": "District 24",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-25",
+      "state": "TX",
+      "office": "house",
+      "label": "District 25",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-26",
+      "state": "TX",
+      "office": "house",
+      "label": "District 26",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-27",
+      "state": "TX",
+      "office": "house",
+      "label": "District 27",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-28",
+      "state": "TX",
+      "office": "house",
+      "label": "District 28",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-29",
+      "state": "TX",
+      "office": "house",
+      "label": "District 29",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-30",
+      "state": "TX",
+      "office": "house",
+      "label": "District 30",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-31",
+      "state": "TX",
+      "office": "house",
+      "label": "District 31",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-32",
+      "state": "TX",
+      "office": "house",
+      "label": "District 32",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-33",
+      "state": "TX",
+      "office": "house",
+      "label": "District 33",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-34",
+      "state": "TX",
+      "office": "house",
+      "label": "District 34",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-35",
+      "state": "TX",
+      "office": "house",
+      "label": "District 35",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-36",
+      "state": "TX",
+      "office": "house",
+      "label": "District 36",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-37",
+      "state": "TX",
+      "office": "house",
+      "label": "District 37",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-house-38",
+      "state": "TX",
+      "office": "house",
+      "label": "District 38",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-senate-2",
+      "state": "TX",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "TX-governor-general",
+      "state": "TX",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "UT-house-01",
+      "state": "UT",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "UT-house-02",
+      "state": "UT",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "UT-house-03",
+      "state": "UT",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "UT-house-04",
+      "state": "UT",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "VT-house-AL",
+      "state": "VT",
+      "office": "house",
+      "label": "At-large",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "VT-governor-general",
+      "state": "VT",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "VA-house-01",
+      "state": "VA",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "VA-house-02",
+      "state": "VA",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "VA-house-03",
+      "state": "VA",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "VA-house-04",
+      "state": "VA",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "VA-house-05",
+      "state": "VA",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "VA-house-06",
+      "state": "VA",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "VA-house-07",
+      "state": "VA",
+      "office": "house",
+      "label": "District 7",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "VA-house-08",
+      "state": "VA",
+      "office": "house",
+      "label": "District 8",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "VA-house-09",
+      "state": "VA",
+      "office": "house",
+      "label": "District 9",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "VA-house-10",
+      "state": "VA",
+      "office": "house",
+      "label": "District 10",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "VA-house-11",
+      "state": "VA",
+      "office": "house",
+      "label": "District 11",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "VA-senate-2",
+      "state": "VA",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WA-house-01",
+      "state": "WA",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WA-house-02",
+      "state": "WA",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WA-house-03",
+      "state": "WA",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WA-house-04",
+      "state": "WA",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WA-house-05",
+      "state": "WA",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WA-house-06",
+      "state": "WA",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WA-house-07",
+      "state": "WA",
+      "office": "house",
+      "label": "District 7",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WA-house-08",
+      "state": "WA",
+      "office": "house",
+      "label": "District 8",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WA-house-09",
+      "state": "WA",
+      "office": "house",
+      "label": "District 9",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WA-house-10",
+      "state": "WA",
+      "office": "house",
+      "label": "District 10",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WV-house-01",
+      "state": "WV",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WV-house-02",
+      "state": "WV",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WV-senate-2",
+      "state": "WV",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WI-house-01",
+      "state": "WI",
+      "office": "house",
+      "label": "District 1",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WI-house-02",
+      "state": "WI",
+      "office": "house",
+      "label": "District 2",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WI-house-03",
+      "state": "WI",
+      "office": "house",
+      "label": "District 3",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WI-house-04",
+      "state": "WI",
+      "office": "house",
+      "label": "District 4",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WI-house-05",
+      "state": "WI",
+      "office": "house",
+      "label": "District 5",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WI-house-06",
+      "state": "WI",
+      "office": "house",
+      "label": "District 6",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WI-house-07",
+      "state": "WI",
+      "office": "house",
+      "label": "District 7",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WI-house-08",
+      "state": "WI",
+      "office": "house",
+      "label": "District 8",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WI-governor-general",
+      "state": "WI",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WY-house-AL",
+      "state": "WY",
+      "office": "house",
+      "label": "At-large",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WY-senate-2",
+      "state": "WY",
+      "office": "senate",
+      "label": "U.S. Senate · Class II",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    },
+    {
+      "id": "WY-governor-general",
+      "state": "WY",
+      "office": "governor",
+      "label": "Governor",
+      "special": false,
+      "official": null,
+      "calls": [],
+      "certification": null
+    }
+  ]
+}

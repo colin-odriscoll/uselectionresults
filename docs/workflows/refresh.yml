@@ -1,0 +1,57 @@
+name: Refresh official election data
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/15 * * * *'
+permissions:
+  contents: write
+concurrency:
+  group: election-data-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    if: github.event_name == 'workflow_dispatch' || vars.ENABLE_LIVE_UPDATES == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Collect and validate
+        id: collect
+        continue-on-error: true
+        run: python scripts/pipeline.py
+      - name: Validate retained or refreshed snapshot
+        run: python scripts/validate.py
+      - name: Commit snapshot and collection health
+        run: |
+          git config user.name 'election-data-bot'
+          git config user.email 'election-data-bot@users.noreply.github.com'
+          git add public/data/results.json public/data/health.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh validated election data and source health"
+            git push origin HEAD:main
+          fi
+      - name: Trigger Cloudflare Pages build when configured
+        env:
+          DEPLOY_HOOK: ${{ secrets.CLOUDFLARE_PAGES_DEPLOY_HOOK }}
+        run: |
+          if [ -n "$DEPLOY_HOOK" ]; then
+            curl --fail --silent --show-error --request POST "$DEPLOY_HOOK" > /dev/null
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: official-source-audit-${{ github.run_id }}
+          path: |
+            work/raw
+            public/data/health.json
+          retention-days: 30
+      - name: Surface ingestion failures
+        if: steps.collect.outcome == 'failure'
+        run: exit 1

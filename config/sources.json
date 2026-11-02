@@ -1,0 +1,7 @@
+[
+  {"id":"mn-sos","name":"Minnesota Secretary of State","kind":"official","state":"MN","hosts":["electionresults.sos.mn.gov","electionresultsfiles.sos.mn.gov"],"url":"https://electionresults.sos.mn.gov/Select/MediaFiles/Index?ersElectionId=201","adapter":"minnesota","enabled":true,"notBefore":"2026-11-04T02:00:00Z","note":"Verified 2026 endpoints. Test Results on November 2; ingestion rejects test mode and waits until poll close."},
+  {"id":"nc-sbe","name":"North Carolina State Board of Elections","kind":"official","state":"NC","hosts":["er.ncsbe.gov","dl.ncsbe.gov"],"url":"https://er.ncsbe.gov/downloads.html","adapter":"north_carolina","enabled":false,"notBefore":"2026-11-04T00:30:00Z","note":"Published ZIP/TSV layout verified; adapter not implemented. Production artifact and test-mode status still require verification."},
+  {"id":"ap","name":"Associated Press","kind":"news","hosts":["apnews.com","api.ap.org"],"url":"https://developer.ap.org/ap-elections-api/","enabled":false,"note":"Licensed API access required; no AP ingestion configured."},
+  {"id":"cnn","name":"CNN","kind":"news","hosts":["www.cnn.com","cnn.com"],"url":"https://www.cnn.com/politics","enabled":false,"note":"No authorized machine-readable race-call feed verified. Evidence-linked manual calls only."},
+  {"id":"fox","name":"Fox News","kind":"news","hosts":["www.foxnews.com","foxnews.com"],"url":"https://www.foxnews.com/elections","enabled":false,"note":"No authorized machine-readable race-call feed verified. Evidence-linked manual calls only."}
+]

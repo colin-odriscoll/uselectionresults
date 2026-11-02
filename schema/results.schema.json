@@ -1,0 +1,290 @@
+{
+  "type": "object",
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "electionDate": {
+      "const": "2026-11-03"
+    },
+    "generatedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "states": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "code": {
+            "type": "string",
+            "minLength": 1
+          },
+          "name": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "code",
+          "name"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "races": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "state": {
+            "type": "string",
+            "pattern": "^[A-Z]{2}$"
+          },
+          "office": {
+            "enum": [
+              "house",
+              "senate",
+              "governor"
+            ]
+          },
+          "label": {
+            "type": "string",
+            "minLength": 1
+          },
+          "special": {
+            "type": "boolean"
+          },
+          "official": {
+            "anyOf": [
+              {
+                "type": "object",
+                "properties": {
+                  "sourceId": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "url": {
+                    "type": "string",
+                    "format": "uri",
+                    "pattern": "^https://"
+                  },
+                  "retrievedAt": {
+                    "type": "string",
+                    "format": "date-time"
+                  },
+                  "sourceUpdatedAt": {
+                    "anyOf": [
+                      {
+                        "type": "string",
+                        "format": "date-time"
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  },
+                  "sha256": {
+                    "type": "string",
+                    "pattern": "^[a-f0-9]{64}$"
+                  },
+                  "candidates": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "id": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "name": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "party": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "votes": {
+                          "type": "integer",
+                          "minimum": 0,
+                          "maximum": 9007199254740991
+                        }
+                      },
+                      "required": [
+                        "id",
+                        "name",
+                        "party",
+                        "votes"
+                      ],
+                      "additionalProperties": false
+                    }
+                  },
+                  "totalVotes": {
+                    "type": "integer",
+                    "minimum": 0,
+                    "maximum": 9007199254740991
+                  },
+                  "reporting": {
+                    "anyOf": [
+                      {
+                        "type": "object",
+                        "properties": {
+                          "kind": {
+                            "const": "precincts"
+                          },
+                          "counted": {
+                            "type": "integer",
+                            "minimum": 0,
+                            "maximum": 9007199254740991
+                          },
+                          "total": {
+                            "type": "integer",
+                            "minimum": 1
+                          }
+                        },
+                        "required": [
+                          "kind",
+                          "counted",
+                          "total"
+                        ],
+                        "additionalProperties": false
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  }
+                },
+                "required": [
+                  "sourceId",
+                  "url",
+                  "retrievedAt",
+                  "sourceUpdatedAt",
+                  "sha256",
+                  "candidates",
+                  "totalVotes",
+                  "reporting"
+                ],
+                "additionalProperties": false
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "calls": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "sourceId": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "url": {
+                  "type": "string",
+                  "format": "uri",
+                  "pattern": "^https://"
+                },
+                "retrievedAt": {
+                  "type": "string",
+                  "format": "date-time"
+                },
+                "candidateId": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "calledAt": {
+                  "type": "string",
+                  "format": "date-time"
+                },
+                "status": {
+                  "enum": [
+                    "called",
+                    "retracted"
+                  ]
+                }
+              },
+              "required": [
+                "sourceId",
+                "url",
+                "retrievedAt",
+                "candidateId",
+                "calledAt",
+                "status"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "certification": {
+            "anyOf": [
+              {
+                "type": "object",
+                "properties": {
+                  "sourceId": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "url": {
+                    "type": "string",
+                    "format": "uri",
+                    "pattern": "^https://"
+                  },
+                  "retrievedAt": {
+                    "type": "string",
+                    "format": "date-time"
+                  },
+                  "candidateId": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "certifiedAt": {
+                    "type": "string",
+                    "format": "date-time"
+                  }
+                },
+                "required": [
+                  "sourceId",
+                  "url",
+                  "retrievedAt",
+                  "candidateId",
+                  "certifiedAt"
+                ],
+                "additionalProperties": false
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        },
+        "required": [
+          "id",
+          "state",
+          "office",
+          "label",
+          "special",
+          "official",
+          "calls",
+          "certification"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "electionDate",
+    "generatedAt",
+    "states",
+    "races"
+  ],
+  "additionalProperties": false,
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:uselectionresults:schema:results:1"
+}

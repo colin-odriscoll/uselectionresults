@@ -1,0 +1,1 @@
+{"name":"us-election-results","private":true,"type":"module","scripts":{"build":"python3 scripts/build.py","test":"node --test tests/frontend.test.js","dev":"python3 scripts/build.py && python3 -m http.server 4173 --directory dist"},"engines":{"node":">=22"}}
