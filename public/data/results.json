@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "electionDate": "2026-11-03",
-  "generatedAt": "2026-11-02T18:00:00Z",
+  "generatedAt": "2026-11-04T03:09:20Z",
   "states": [
     {
       "code": "AL",
@@ -3511,7 +3511,39 @@
       "office": "house",
       "label": "District 1",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "nc-sbe",
+        "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+        "retrievedAt": "2026-11-04T03:09:19Z",
+        "sourceUpdatedAt": "2026-11-04T03:02:37Z",
+        "sha256": "46df452a6c934856b184d006d784b77e244fa9129979b000c71f90f8111d37c7",
+        "candidates": [
+          {
+            "id": "NC-1369-8908a436378a6d78",
+            "name": "Don Davis",
+            "party": "DEM",
+            "votes": 136403
+          },
+          {
+            "id": "NC-1369-0adb39a11fc6d01b",
+            "name": "Laurie Buckhout",
+            "party": "REP",
+            "votes": 128435
+          },
+          {
+            "id": "NC-1369-2746e6a8f80eca2b",
+            "name": "Tom Bailey",
+            "party": "LIB",
+            "votes": 8458
+          }
+        ],
+        "totalVotes": 273296,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 214,
+          "total": 290
+        }
+      },
       "calls": [],
       "certification": null
     },
@@ -3521,7 +3553,45 @@
       "office": "house",
       "label": "District 2",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "nc-sbe",
+        "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+        "retrievedAt": "2026-11-04T03:09:19Z",
+        "sourceUpdatedAt": "2026-11-04T03:02:37Z",
+        "sha256": "46df452a6c934856b184d006d784b77e244fa9129979b000c71f90f8111d37c7",
+        "candidates": [
+          {
+            "id": "NC-1370-56eb72404a4b9772",
+            "name": "Deborah K. Ross",
+            "party": "DEM",
+            "votes": 198136
+          },
+          {
+            "id": "NC-1370-1bbc6451cdd25797",
+            "name": "Eugene F. Douglass",
+            "party": "REP",
+            "votes": 57720
+          },
+          {
+            "id": "NC-1370-e100625fc250c2af",
+            "name": "Matthew Laszacs",
+            "party": "LIB",
+            "votes": 2934
+          },
+          {
+            "id": "NC-1370-fe52cc36f157e341",
+            "name": "Write-In (Miscellaneous)",
+            "party": "Unknown",
+            "votes": 366
+          }
+        ],
+        "totalVotes": 259156,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 74,
+          "total": 156
+        }
+      },
       "calls": [],
       "certification": null
     },
@@ -3531,7 +3601,39 @@
       "office": "house",
       "label": "District 3",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "nc-sbe",
+        "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+        "retrievedAt": "2026-11-04T03:09:19Z",
+        "sourceUpdatedAt": "2026-11-04T03:02:37Z",
+        "sha256": "46df452a6c934856b184d006d784b77e244fa9129979b000c71f90f8111d37c7",
+        "candidates": [
+          {
+            "id": "NC-1371-5848b5da0361798f",
+            "name": "Greg Murphy",
+            "party": "REP",
+            "votes": 101482
+          },
+          {
+            "id": "NC-1371-f51ce9f178c31ac2",
+            "name": "Raymond Smith",
+            "party": "DEM",
+            "votes": 98633
+          },
+          {
+            "id": "NC-1371-78132c90280aa96a",
+            "name": "Daniel Cavender",
+            "party": "LIB",
+            "votes": 2522
+          }
+        ],
+        "totalVotes": 202637,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 160,
+          "total": 190
+        }
+      },
       "calls": [],
       "certification": null
     },
@@ -3541,7 +3643,39 @@
       "office": "house",
       "label": "District 4",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "nc-sbe",
+        "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+        "retrievedAt": "2026-11-04T03:09:19Z",
+        "sourceUpdatedAt": "2026-11-04T03:02:37Z",
+        "sha256": "46df452a6c934856b184d006d784b77e244fa9129979b000c71f90f8111d37c7",
+        "candidates": [
+          {
+            "id": "NC-1372-a20db416c133cf2c",
+            "name": "Valerie P. Foushee",
+            "party": "DEM",
+            "votes": 256446
+          },
+          {
+            "id": "NC-1372-53d68e960a63ba4c",
+            "name": "Mahesh (Max) Ganorkar",
+            "party": "REP",
+            "votes": 56106
+          },
+          {
+            "id": "NC-1372-a173b8a9c6c106c3",
+            "name": "Guy Meilleur",
+            "party": "LIB",
+            "votes": 5714
+          }
+        ],
+        "totalVotes": 318266,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 102,
+          "total": 142
+        }
+      },
       "calls": [],
       "certification": null
     },
@@ -3551,7 +3685,39 @@
       "office": "house",
       "label": "District 5",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "nc-sbe",
+        "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+        "retrievedAt": "2026-11-04T03:09:19Z",
+        "sourceUpdatedAt": "2026-11-04T03:02:37Z",
+        "sha256": "46df452a6c934856b184d006d784b77e244fa9129979b000c71f90f8111d37c7",
+        "candidates": [
+          {
+            "id": "NC-1373-59c8270ba9a0aece",
+            "name": "Virginia Foxx",
+            "party": "REP",
+            "votes": 132208
+          },
+          {
+            "id": "NC-1373-ad69dea902f5d7f3",
+            "name": "Chuck Hubbard",
+            "party": "DEM",
+            "votes": 125939
+          },
+          {
+            "id": "NC-1373-407f4a987ec3bf65",
+            "name": "Robert B. Luffman",
+            "party": "LIB",
+            "votes": 7004
+          }
+        ],
+        "totalVotes": 265151,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 189,
+          "total": 230
+        }
+      },
       "calls": [],
       "certification": null
     },
@@ -3561,7 +3727,33 @@
       "office": "house",
       "label": "District 6",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "nc-sbe",
+        "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+        "retrievedAt": "2026-11-04T03:09:19Z",
+        "sourceUpdatedAt": "2026-11-04T03:02:37Z",
+        "sha256": "46df452a6c934856b184d006d784b77e244fa9129979b000c71f90f8111d37c7",
+        "candidates": [
+          {
+            "id": "NC-1374-2c6e7133c5eed2dd",
+            "name": "Cyril Jefferson",
+            "party": "DEM",
+            "votes": 129326
+          },
+          {
+            "id": "NC-1374-55254339e8b66db0",
+            "name": "Addison McDowell",
+            "party": "REP",
+            "votes": 126800
+          }
+        ],
+        "totalVotes": 256126,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 159,
+          "total": 195
+        }
+      },
       "calls": [],
       "certification": null
     },
@@ -3571,7 +3763,39 @@
       "office": "house",
       "label": "District 7",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "nc-sbe",
+        "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+        "retrievedAt": "2026-11-04T03:09:19Z",
+        "sourceUpdatedAt": "2026-11-04T03:02:37Z",
+        "sha256": "46df452a6c934856b184d006d784b77e244fa9129979b000c71f90f8111d37c7",
+        "candidates": [
+          {
+            "id": "NC-1375-9cde24fc463bc1f4",
+            "name": "Kimberly Hardy",
+            "party": "DEM",
+            "votes": 142068
+          },
+          {
+            "id": "NC-1375-7047d01acfae96fa",
+            "name": "David Rouzer",
+            "party": "REP",
+            "votes": 140915
+          },
+          {
+            "id": "NC-1375-220ab84ed879c98d",
+            "name": "Maad Abu-Ghazalah",
+            "party": "LIB",
+            "votes": 2626
+          }
+        ],
+        "totalVotes": 285609,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 120,
+          "total": 183
+        }
+      },
       "calls": [],
       "certification": null
     },
@@ -3581,7 +3805,39 @@
       "office": "house",
       "label": "District 8",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "nc-sbe",
+        "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+        "retrievedAt": "2026-11-04T03:09:19Z",
+        "sourceUpdatedAt": "2026-11-04T03:02:37Z",
+        "sha256": "46df452a6c934856b184d006d784b77e244fa9129979b000c71f90f8111d37c7",
+        "candidates": [
+          {
+            "id": "NC-1376-ad787e4d84a8f0dc",
+            "name": "Mark Harris",
+            "party": "REP",
+            "votes": 144480
+          },
+          {
+            "id": "NC-1376-563fbeda7d128247",
+            "name": "Colby Watson",
+            "party": "DEM",
+            "votes": 139638
+          },
+          {
+            "id": "NC-1376-0a2810a9ab7bbefa",
+            "name": "Bo Whitehead",
+            "party": "GRE",
+            "votes": 2815
+          }
+        ],
+        "totalVotes": 286933,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 183,
+          "total": 193
+        }
+      },
       "calls": [],
       "certification": null
     },
@@ -3591,7 +3847,33 @@
       "office": "house",
       "label": "District 9",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "nc-sbe",
+        "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+        "retrievedAt": "2026-11-04T03:09:19Z",
+        "sourceUpdatedAt": "2026-11-04T03:02:37Z",
+        "sha256": "46df452a6c934856b184d006d784b77e244fa9129979b000c71f90f8111d37c7",
+        "candidates": [
+          {
+            "id": "NC-1377-325cb8f251fa0628",
+            "name": "Richard N. Ojeda II",
+            "party": "DEM",
+            "votes": 126860
+          },
+          {
+            "id": "NC-1377-b6962ff82646a570",
+            "name": "Richard Hudson",
+            "party": "REP",
+            "votes": 122048
+          }
+        ],
+        "totalVotes": 248908,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 130,
+          "total": 169
+        }
+      },
       "calls": [],
       "certification": null
     },
@@ -3601,7 +3883,39 @@
       "office": "house",
       "label": "District 10",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "nc-sbe",
+        "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+        "retrievedAt": "2026-11-04T03:09:19Z",
+        "sourceUpdatedAt": "2026-11-04T03:02:37Z",
+        "sha256": "46df452a6c934856b184d006d784b77e244fa9129979b000c71f90f8111d37c7",
+        "candidates": [
+          {
+            "id": "NC-1378-fdd3b3e6930c312e",
+            "name": "Pat Harrigan",
+            "party": "REP",
+            "votes": 137738
+          },
+          {
+            "id": "NC-1378-23eed9cff97f2f92",
+            "name": "Ashley Bell",
+            "party": "DEM",
+            "votes": 133575
+          },
+          {
+            "id": "NC-1378-4da0e26d1bb08d41",
+            "name": "Steven Feldman",
+            "party": "LIB",
+            "votes": 4201
+          }
+        ],
+        "totalVotes": 275514,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 155,
+          "total": 187
+        }
+      },
       "calls": [],
       "certification": null
     },
@@ -3611,7 +3925,39 @@
       "office": "house",
       "label": "District 11",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "nc-sbe",
+        "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+        "retrievedAt": "2026-11-04T03:09:19Z",
+        "sourceUpdatedAt": "2026-11-04T03:02:37Z",
+        "sha256": "46df452a6c934856b184d006d784b77e244fa9129979b000c71f90f8111d37c7",
+        "candidates": [
+          {
+            "id": "NC-1379-40c0cb750318f94a",
+            "name": "Jamie Ager",
+            "party": "DEM",
+            "votes": 190998
+          },
+          {
+            "id": "NC-1379-7814f6e6fa23a92b",
+            "name": "Jennifer Capps Balkcom",
+            "party": "REP",
+            "votes": 140121
+          },
+          {
+            "id": "NC-1379-faa383d338042514",
+            "name": "Travis Groo",
+            "party": "LIB",
+            "votes": 5269
+          }
+        ],
+        "totalVotes": 336388,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 287,
+          "total": 290
+        }
+      },
       "calls": [],
       "certification": null
     },
@@ -3621,7 +3967,33 @@
       "office": "house",
       "label": "District 12",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "nc-sbe",
+        "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+        "retrievedAt": "2026-11-04T03:09:19Z",
+        "sourceUpdatedAt": "2026-11-04T03:02:37Z",
+        "sha256": "46df452a6c934856b184d006d784b77e244fa9129979b000c71f90f8111d37c7",
+        "candidates": [
+          {
+            "id": "NC-1380-37f879f6fad00e10",
+            "name": "Alma S. Adams",
+            "party": "DEM",
+            "votes": 191112
+          },
+          {
+            "id": "NC-1380-35ad108c8bcea527",
+            "name": "Jack Codiga",
+            "party": "REP",
+            "votes": 43179
+          }
+        ],
+        "totalVotes": 234291,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 105,
+          "total": 145
+        }
+      },
       "calls": [],
       "certification": null
     },
@@ -3631,7 +4003,39 @@
       "office": "house",
       "label": "District 13",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "nc-sbe",
+        "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+        "retrievedAt": "2026-11-04T03:09:19Z",
+        "sourceUpdatedAt": "2026-11-04T03:02:37Z",
+        "sha256": "46df452a6c934856b184d006d784b77e244fa9129979b000c71f90f8111d37c7",
+        "candidates": [
+          {
+            "id": "NC-1381-351789749423d1ba",
+            "name": "Paul Barringer",
+            "party": "DEM",
+            "votes": 148442
+          },
+          {
+            "id": "NC-1381-565e7378876ec858",
+            "name": "Brad Knott",
+            "party": "REP",
+            "votes": 139092
+          },
+          {
+            "id": "NC-1381-272dedaaa146139d",
+            "name": "Steven Swinton",
+            "party": "LIB",
+            "votes": 3966
+          }
+        ],
+        "totalVotes": 291500,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 104,
+          "total": 140
+        }
+      },
       "calls": [],
       "certification": null
     },
@@ -3641,7 +4045,33 @@
       "office": "house",
       "label": "District 14",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "nc-sbe",
+        "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+        "retrievedAt": "2026-11-04T03:09:19Z",
+        "sourceUpdatedAt": "2026-11-04T03:02:37Z",
+        "sha256": "46df452a6c934856b184d006d784b77e244fa9129979b000c71f90f8111d37c7",
+        "candidates": [
+          {
+            "id": "NC-1382-060b103795d2b08e",
+            "name": "Lakesha Womack",
+            "party": "DEM",
+            "votes": 138226
+          },
+          {
+            "id": "NC-1382-fa05480d907fa431",
+            "name": "Tim Moore",
+            "party": "REP",
+            "votes": 134289
+          }
+        ],
+        "totalVotes": 272515,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 130,
+          "total": 142
+        }
+      },
       "calls": [],
       "certification": null
     },
@@ -3651,7 +4081,45 @@
       "office": "senate",
       "label": "U.S. Senate · Class II",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "nc-sbe",
+        "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
+        "retrievedAt": "2026-11-04T03:09:19Z",
+        "sourceUpdatedAt": "2026-11-04T03:02:37Z",
+        "sha256": "46df452a6c934856b184d006d784b77e244fa9129979b000c71f90f8111d37c7",
+        "candidates": [
+          {
+            "id": "NC-1383-df344a90c67f855c",
+            "name": "Roy Cooper",
+            "party": "DEM",
+            "votes": 2229062
+          },
+          {
+            "id": "NC-1383-e0dee75def680a9a",
+            "name": "Michael Whatley",
+            "party": "REP",
+            "votes": 1506908
+          },
+          {
+            "id": "NC-1383-1f807ffebfa5148e",
+            "name": "Shannon W. Bray",
+            "party": "LIB",
+            "votes": 49058
+          },
+          {
+            "id": "NC-1383-273cf163df09c047",
+            "name": "Michael Dublin",
+            "party": "GRE",
+            "votes": 32011
+          }
+        ],
+        "totalVotes": 3817039,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 2091,
+          "total": 2626
+        }
+      },
       "calls": [],
       "certification": null
     },

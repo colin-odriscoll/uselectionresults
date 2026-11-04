@@ -31,3 +31,13 @@ This is an endpoint and inventory audit, not an assertion that production result
 - Governor schedule: [National Governors Association election calendar](https://www.nga.org/governors/elections/). Its 39 contests include three territories; this project's 50-state scope includes 36 state races.
 
 Re-check the inventory if special elections are added. This release does not claim coverage of every election on November 3, county contests, House unexpired-term special elections, runoffs or ranked-choice tabulation rounds. Adding such coverage requires explicit race/round identifiers rather than overwriting regular-election records.
+
+## November 3 production update: North Carolina
+
+The official dashboard's `loadElectionData`/`getDateFolder` code references the active election's `/data/county.txt` and `/data/results_0.txt`. Direct inspection verified:
+
+- [Election catalog](https://er.ncsbe.gov/enr/elections.txt) includes November 3, 2026.
+- [Statewide status](https://er.ncsbe.gov/enr/20261103/data/county.txt) identifies `11/03/2026 UNOFFICIAL GENERAL ELECTION RESULTS - STATEWIDE`.
+- [Statewide candidate results](https://er.ncsbe.gov/enr/20261103/data/results_0.txt) contains all 14 House contests and the Senate contest.
+
+The implemented JSON adapter validates these identities, geographic scope, vote-for count, candidate uniqueness, precinct consistency and voting-method sums. Contest totals are calculated from the published candidate rows. No winner or certification is inferred. Older North Carolina ZIP notes above describe the initial research, not the newly implemented JSON adapter. Minnesota now redirects automated status-page requests to a CAPTCHA service; the collector rejects that response.

@@ -2,7 +2,7 @@
 
 A responsive, static dashboard for **435 House, 35 Senate and 36 state governor races**, with 50 state drilldowns. No sample vote totals, candidate names or winners ship in the public snapshot.
 
-**Coverage is partial, not a nationwide live feed.** One official adapter (Minnesota) is implemented. It will not import before November 3 at 8 p.m. Central and rejects test results. The verified November 2 source page still says **Test Results**. North Carolina download research is documented, but its adapter is not implemented. The remaining states and AP/CNN/Fox feeds are not connected. The UI makes these limits visible. Cloudflare hosting and the scheduled job must be activated by the repository owner.
+**Coverage is partial, not a nationwide live feed.** Minnesota and North Carolina official adapters are implemented. North Carolina is supplying verified, uncertified counts for 14 House races and the Senate race. Minnesota's official status page currently challenges this collector with a CAPTCHA; failed checks retain last validated data. Other states and news feeds are not connected. The UI warns when collection is overdue or failing.
 
 ## Run locally
 

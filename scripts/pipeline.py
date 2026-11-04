@@ -14,6 +14,7 @@ from validate import ROOT, validate
 
 MN_PAGE='https://electionresults.sos.mn.gov/Select/MediaFiles/Index?ersElectionId=201'
 MN_FILES={'senate':'ussenate.txt','house':'ushouse.txt','governor':'Governor.txt'}
+NC_BASE='https://er.ncsbe.gov/enr/20261103/data/'
 
 def now(): return datetime.now(timezone.utc).isoformat(timespec='seconds').replace('+00:00','Z')
 def integer(value):
@@ -26,7 +27,10 @@ def fetch(url):
         try:
             req=urllib.request.Request(url,headers={'User-Agent':'USElectionResults/1.0 (public election data)','Cache-Control':'no-cache'})
             with urllib.request.urlopen(req,timeout=30) as response:
-                if response.url!=url: raise ValueError('Unexpected redirect; review endpoint')
+                if response.url!=url:
+                    if 'perfdrive.com' in response.url:
+                        raise ValueError('Official site requires a CAPTCHA; automated collection blocked')
+                    raise ValueError('Unexpected redirect; review endpoint')
                 body=response.read(10_000_001)
                 if len(body)>10_000_000: raise ValueError('Feed size limit exceeded')
                 return body, response.headers.get('Last-Modified')
@@ -102,6 +106,63 @@ def atomic_json(path,data):
     tmp.write_text(json.dumps(data,indent=2,ensure_ascii=False)+'\n')
     os.replace(tmp,path)
 
+def guard_north_carolina(body):
+    rows=json.loads(body)
+    state=[r for r in rows if r.get('cid')=='0']
+    if len(state)!=1 or state[0].get('tle')!='11/03/2026 UNOFFICIAL GENERAL ELECTION RESULTS - STATEWIDE':
+        raise ValueError('NC election identity or production status not verified')
+    return state[0]
+
+def parse_north_carolina(body,evidence):
+    rows=json.loads(body)
+    result={}; groups={}
+    for row in rows:
+        if row.get('cid')!='0': raise ValueError('NC feed is not statewide')
+        name=row.get('cnm','')
+        if name=='US SENATE (VOTE FOR 1)': rid='NC-senate-2'
+        else:
+            match=re.fullmatch(r'US HOUSE OF REPRESENTATIVES DISTRICT (\d{2}) \(VOTE FOR 1\)',name)
+            if not match:
+                if row.get('ogl')=='FED': raise ValueError('Unmapped NC federal contest')
+                continue
+            rid='NC-house-'+match[1]
+        if row.get('vfr')!='1': raise ValueError('Unexpected vote-for limit')
+        if rid in groups and groups[rid]!=row['gid']: raise ValueError('Conflicting NC contest identities')
+        groups[rid]=row['gid']
+        reporting=dict(kind='precincts',counted=integer(row['prt']),total=integer(row['ptl']))
+        item=result.setdefault(rid,dict(**evidence,candidates=[],totalVotes=0,reporting=reporting))
+        if item['reporting']!=reporting: raise ValueError('Inconsistent NC precinct reporting')
+        votes=integer(row['vct'])
+        if votes!=sum(integer(row[k]) for k in ('evc','ovc','avc','pvc')):
+            raise ValueError('NC voting-method totals mismatch')
+        # The publisher supplies no candidate ID here; stable identity uses contest + exact ballot name + party.
+        identity=hashlib.sha256((row['bnm']+'|'+row['pty']).encode()).hexdigest()[:16]
+        item['candidates'].append(dict(id=f"NC-{row['gid']}-{identity}",name=row['bnm'],party=row['pty'] or 'Unknown',votes=votes))
+        item['totalVotes']+=votes
+    expected={'NC-senate-2'}|{f'NC-house-{i:02}' for i in range(1,15)}
+    if set(result)!=expected: raise ValueError('Incomplete NC federal race inventory')
+    return result
+
+def collect_north_carolina(source,folder,fetcher=fetch):
+    catalog_url='https://er.ncsbe.gov/enr/elections.txt'
+    catalog,_=fetcher(catalog_url);archive(catalog,catalog_url,now(),folder)
+    if not any(r.get('edt')=='11/03/2026' and r.get('con')=='1' for r in json.loads(catalog)):
+        raise ValueError('NC election missing from official catalog')
+    status_url=NC_BASE+'county.txt'
+    status,_=fetcher(status_url);archive(status,status_url,now(),folder)
+    guard_north_carolina(status)
+    url=NC_BASE+'results_0.txt'
+    body,modified=fetcher(url);retrieved=now();digest=archive(body,url,retrieved,folder)
+    updated=None
+    if modified:
+        from email.utils import parsedate_to_datetime
+        updated=parsedate_to_datetime(modified).astimezone(timezone.utc).isoformat().replace('+00:00','Z')
+    evidence=dict(sourceId=source['id'],url=url,retrievedAt=retrieved,sourceUpdatedAt=updated,sha256=digest)
+    result=parse_north_carolina(body,evidence)
+    status,_=fetcher(status_url);archive(status,status_url,now(),folder)
+    guard_north_carolina(status)
+    return result
+
 def apply_editorial(data, editorial):
     races={r['id']:r for r in data['races']}
     for r in races.values(): r['calls']=[]; r['certification']=None
@@ -125,8 +186,9 @@ def run():
                 entry.update(status='waiting',message='Waiting for scheduled poll close; no results imported.')
             else:
                 try:
-                    if source['adapter']!='minnesota': raise ValueError('Adapter not implemented; keep disabled')
-                    updates=collect_minnesota(source,ROOT/'work/raw')
+                    collectors={'minnesota':collect_minnesota,'north_carolina':collect_north_carolina}
+                    if source['adapter'] not in collectors: raise ValueError('Adapter not implemented; keep disabled')
+                    updates=collectors[source['adapter']](source,ROOT/'work/raw')
                     trial=copy.deepcopy(data)
                     for race in trial['races']:
                         if race['id'] in updates:

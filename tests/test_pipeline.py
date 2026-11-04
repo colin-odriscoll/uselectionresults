@@ -88,10 +88,36 @@ class PipelineTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as d:
             root=Path(d);(root/'config').mkdir();(root/'public/data').mkdir(parents=True)
             snapshot=populated();atomic_json(root/'public/data/results.json',snapshot)
-            sources=json.loads((ROOT/'config/sources.json').read_text());sources[0]['notBefore']='2000-01-01T00:00:00Z'
+            sources=json.loads((ROOT/'config/sources.json').read_text());sources[0]['notBefore']='2000-01-01T00:00:00Z';sources[1]['enabled']=False
             atomic_json(root/'config/sources.json',sources);atomic_json(root/'config/editorial.json',{'calls':[],'certifications':[]})
             with patch.object(pipeline,'ROOT',root), patch.object(pipeline,'collect_minnesota',side_effect=ValueError('TEST RESULTS')):
                 self.assertEqual(pipeline.run(),1)
             self.assertEqual(json.loads((root/'public/data/results.json').read_text()),snapshot)
             self.assertEqual(json.loads((root/'public/data/health.json').read_text())['sources'][0]['status'],'error')
+class NorthCarolinaTests(unittest.TestCase):
+    def rows(self):
+        return [dict(cid='0',cnm='US SENATE (VOTE FOR 1)' if n==0 else f'US HOUSE OF REPRESENTATIVES DISTRICT {n:02} (VOTE FOR 1)',
+            vfr='1',gid=str(n),bnm='Synthetic candidate',pty='DEM',vct='10',prt='1',ptl='5',evc='3',ovc='4',avc='2',pvc='1',ogl='FED') for n in range(15)]
+    def evidence(self): return dict(EVIDENCE,sourceId='nc-sbe',url='https://er.ncsbe.gov/enr/20261103/data/results_0.txt')
+    def test_full_import(self):
+        from pipeline import parse_north_carolina
+        updates=parse_north_carolina(json.dumps(self.rows()),self.evidence());data=seed()
+        for r in data['races']:
+            if r['id'] in updates:r['official']=updates[r['id']]
+        validate(data);self.assertEqual(len(updates),15)
+    def test_wrong_status(self):
+        from pipeline import guard_north_carolina
+        for title in ['11/03/2026 TEST RESULTS','11/05/2024 UNOFFICIAL GENERAL ELECTION RESULTS - STATEWIDE']:
+            with self.assertRaises(ValueError):guard_north_carolina(json.dumps([dict(cid='0',tle=title)]))
+    def test_missing_district(self):
+        from pipeline import parse_north_carolina
+        with self.assertRaises(ValueError):parse_north_carolina(json.dumps(self.rows()[:-1]),self.evidence())
+    def test_method_totals_must_match(self):
+        from pipeline import parse_north_carolina
+        rows=self.rows();rows[0]['vct']='11'
+        with self.assertRaises(ValueError):parse_north_carolina(json.dumps(rows),self.evidence())
+    def test_county_feed_rejected(self):
+        from pipeline import parse_north_carolina
+        rows=self.rows();rows[0]['cid']='1'
+        with self.assertRaises(ValueError):parse_north_carolina(json.dumps(rows),self.evidence())
 if __name__=='__main__':unittest.main()

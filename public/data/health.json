@@ -1,33 +1,33 @@
 {
-  "checkedAt": "2026-11-02T18:16:26Z",
+  "checkedAt": "2026-11-04T03:09:20Z",
   "sources": [
     {
       "sourceId": "mn-sos",
-      "checkedAt": "2026-11-02T18:16:26Z",
-      "status": "waiting",
-      "message": "Waiting for scheduled poll close; no results imported."
+      "checkedAt": "2026-11-04T03:09:14Z",
+      "status": "error",
+      "message": "Official site requires a CAPTCHA; automated collection blocked Previous validated data retained."
     },
     {
       "sourceId": "nc-sbe",
-      "checkedAt": "2026-11-02T18:16:26Z",
-      "status": "disabled",
-      "message": "Published ZIP/TSV layout verified; adapter not implemented. Production artifact and test-mode status still require verification."
+      "checkedAt": "2026-11-04T03:09:18Z",
+      "status": "ok",
+      "message": "Validated official vote totals; not certified."
     },
     {
       "sourceId": "ap",
-      "checkedAt": "2026-11-02T18:16:26Z",
+      "checkedAt": "2026-11-04T03:09:20Z",
       "status": "disabled",
       "message": "Licensed API access required; no AP ingestion configured."
     },
     {
       "sourceId": "cnn",
-      "checkedAt": "2026-11-02T18:16:26Z",
+      "checkedAt": "2026-11-04T03:09:20Z",
       "status": "disabled",
       "message": "No authorized machine-readable race-call feed verified. Evidence-linked manual calls only."
     },
     {
       "sourceId": "fox",
-      "checkedAt": "2026-11-02T18:16:26Z",
+      "checkedAt": "2026-11-04T03:09:20Z",
       "status": "disabled",
       "message": "No authorized machine-readable race-call feed verified. Evidence-linked manual calls only."
     }
