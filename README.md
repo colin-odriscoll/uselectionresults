@@ -35,7 +35,7 @@ Editorial evidence (separate news calls/certifications) ------^
 - `scripts/pipeline.py`: retry-limited collection, source checks, raw audit artifacts, normalization, last-good retention and atomic writes.
 - `schema/results.schema.json`: closed Draft 2020-12 contract; `scripts/validate.py` adds source, inventory, totals and reference checks.
 - `config/sources.json`: approved source identity and enabled adapters; `config/editorial.json`: reviewed evidence records.
-- `docs/workflows/`: ready-to-install GitHub Actions validation and opt-in collection templates. The available Git token cannot upload files under `.github/workflows/`; the owner must install these templates as described in the deployment guide. Tests use **synthetic fixtures only**, which never enter `public/` or `dist/`.
+- `.github/workflows/refresh.yml`: active scheduled collection every 15 minutes. `docs/workflows/validate.yml` is an optional CI template. Tests use **synthetic fixtures only**, which never enter `public/` or `dist/`.
 
 The initial snapshot has `official: null` for every race. This means **not imported**, not zero votes, polls closed or no election. The dashboard has no chamber-control projection: non-contested Senate seats and governorships are not silently added to results. A candidate leading in votes is never labeled the winner. Source-file timestamps and retrieval timestamps remain distinct; stale data is labeled after 30 minutes. Browser refresh is every 60 seconds while visible; collection is a separate, best-effort 15-minute job.
 
