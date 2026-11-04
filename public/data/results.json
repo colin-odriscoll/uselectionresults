@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "electionDate": "2026-11-03",
-  "generatedAt": "2026-11-04T15:02:09Z",
+  "generatedAt": "2026-11-04T19:11:56Z",
   "states": [
     {
       "code": "AL",
@@ -2661,7 +2661,39 @@
       "office": "house",
       "label": "District 1",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "mn-sos",
+        "url": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
+        "retrievedAt": "2026-11-04T19:11:53Z",
+        "sourceUpdatedAt": "2026-11-04T19:08:22Z",
+        "sha256": "7af63eda35baf1ee6ec6cc419dd0bb28dee48e0e91c81f2d759ec58009a9580b",
+        "candidates": [
+          {
+            "id": "MN-0104-0401",
+            "name": "Jake Johnson",
+            "party": "DFL",
+            "votes": 163056
+          },
+          {
+            "id": "MN-0104-0302",
+            "name": "Brad Finstad",
+            "party": "R",
+            "votes": 162733
+          },
+          {
+            "id": "MN-0104-9901",
+            "name": "WRITE-IN",
+            "party": "WI",
+            "votes": 391
+          }
+        ],
+        "totalVotes": 326180,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 750,
+          "total": 750
+        }
+      },
       "calls": [],
       "certification": null
     },
@@ -2671,7 +2703,39 @@
       "office": "house",
       "label": "District 2",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "mn-sos",
+        "url": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
+        "retrievedAt": "2026-11-04T19:11:53Z",
+        "sourceUpdatedAt": "2026-11-04T19:08:22Z",
+        "sha256": "7af63eda35baf1ee6ec6cc419dd0bb28dee48e0e91c81f2d759ec58009a9580b",
+        "candidates": [
+          {
+            "id": "MN-0105-0401",
+            "name": "Matt Little",
+            "party": "DFL",
+            "votes": 214255
+          },
+          {
+            "id": "MN-0105-0302",
+            "name": "Eric Pratt",
+            "party": "R",
+            "votes": 160636
+          },
+          {
+            "id": "MN-0105-9901",
+            "name": "WRITE-IN",
+            "party": "WI",
+            "votes": 335
+          }
+        ],
+        "totalVotes": 375226,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 260,
+          "total": 260
+        }
+      },
       "calls": [],
       "certification": null
     },
@@ -2681,7 +2745,39 @@
       "office": "house",
       "label": "District 3",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "mn-sos",
+        "url": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
+        "retrievedAt": "2026-11-04T19:11:53Z",
+        "sourceUpdatedAt": "2026-11-04T19:08:22Z",
+        "sha256": "7af63eda35baf1ee6ec6cc419dd0bb28dee48e0e91c81f2d759ec58009a9580b",
+        "candidates": [
+          {
+            "id": "MN-0106-0301",
+            "name": "Tyler Bass",
+            "party": "R",
+            "votes": 135505
+          },
+          {
+            "id": "MN-0106-0402",
+            "name": "Kelly Morrison",
+            "party": "DFL",
+            "votes": 242079
+          },
+          {
+            "id": "MN-0106-9901",
+            "name": "WRITE-IN",
+            "party": "WI",
+            "votes": 413
+          }
+        ],
+        "totalVotes": 377997,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 229,
+          "total": 229
+        }
+      },
       "calls": [],
       "certification": null
     },
@@ -2691,7 +2787,39 @@
       "office": "house",
       "label": "District 4",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "mn-sos",
+        "url": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
+        "retrievedAt": "2026-11-04T19:11:53Z",
+        "sourceUpdatedAt": "2026-11-04T19:08:22Z",
+        "sha256": "7af63eda35baf1ee6ec6cc419dd0bb28dee48e0e91c81f2d759ec58009a9580b",
+        "candidates": [
+          {
+            "id": "MN-0107-0401",
+            "name": "Betty McCollum",
+            "party": "DFL",
+            "votes": 245699
+          },
+          {
+            "id": "MN-0107-0302",
+            "name": "Paul Wikstrom",
+            "party": "R",
+            "votes": 90068
+          },
+          {
+            "id": "MN-0107-9901",
+            "name": "WRITE-IN",
+            "party": "WI",
+            "votes": 477
+          }
+        ],
+        "totalVotes": 336244,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 212,
+          "total": 212
+        }
+      },
       "calls": [],
       "certification": null
     },
@@ -2701,7 +2829,45 @@
       "office": "house",
       "label": "District 5",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "mn-sos",
+        "url": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
+        "retrievedAt": "2026-11-04T19:11:53Z",
+        "sourceUpdatedAt": "2026-11-04T19:08:22Z",
+        "sha256": "7af63eda35baf1ee6ec6cc419dd0bb28dee48e0e91c81f2d759ec58009a9580b",
+        "candidates": [
+          {
+            "id": "MN-0108-0401",
+            "name": "Ilhan Omar",
+            "party": "DFL",
+            "votes": 262702
+          },
+          {
+            "id": "MN-0108-0302",
+            "name": "John Nagel",
+            "party": "R",
+            "votes": 55765
+          },
+          {
+            "id": "MN-0108-1003",
+            "name": "DeVelle L. Jackson",
+            "party": "IND",
+            "votes": 24110
+          },
+          {
+            "id": "MN-0108-9901",
+            "name": "WRITE-IN",
+            "party": "WI",
+            "votes": 931
+          }
+        ],
+        "totalVotes": 343508,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 217,
+          "total": 217
+        }
+      },
       "calls": [],
       "certification": null
     },
@@ -2711,7 +2877,39 @@
       "office": "house",
       "label": "District 6",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "mn-sos",
+        "url": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
+        "retrievedAt": "2026-11-04T19:11:53Z",
+        "sourceUpdatedAt": "2026-11-04T19:08:22Z",
+        "sha256": "7af63eda35baf1ee6ec6cc419dd0bb28dee48e0e91c81f2d759ec58009a9580b",
+        "candidates": [
+          {
+            "id": "MN-0109-0301",
+            "name": "Tom Emmer",
+            "party": "R",
+            "votes": 204705
+          },
+          {
+            "id": "MN-0109-0402",
+            "name": "Doug Chapin",
+            "party": "DFL",
+            "votes": 162214
+          },
+          {
+            "id": "MN-0109-9901",
+            "name": "WRITE-IN",
+            "party": "WI",
+            "votes": 427
+          }
+        ],
+        "totalVotes": 367346,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 276,
+          "total": 276
+        }
+      },
       "calls": [],
       "certification": null
     },
@@ -2721,7 +2919,39 @@
       "office": "house",
       "label": "District 7",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "mn-sos",
+        "url": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
+        "retrievedAt": "2026-11-04T19:11:53Z",
+        "sourceUpdatedAt": "2026-11-04T19:08:22Z",
+        "sha256": "7af63eda35baf1ee6ec6cc419dd0bb28dee48e0e91c81f2d759ec58009a9580b",
+        "candidates": [
+          {
+            "id": "MN-0110-0301",
+            "name": "Michelle Fischbach",
+            "party": "R",
+            "votes": 214505
+          },
+          {
+            "id": "MN-0110-0402",
+            "name": "Erik Osberg",
+            "party": "DFL",
+            "votes": 115804
+          },
+          {
+            "id": "MN-0110-9901",
+            "name": "WRITE-IN",
+            "party": "WI",
+            "votes": 320
+          }
+        ],
+        "totalVotes": 330629,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 1327,
+          "total": 1327
+        }
+      },
       "calls": [],
       "certification": null
     },
@@ -2731,7 +2961,39 @@
       "office": "house",
       "label": "District 8",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "mn-sos",
+        "url": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
+        "retrievedAt": "2026-11-04T19:11:53Z",
+        "sourceUpdatedAt": "2026-11-04T19:08:22Z",
+        "sha256": "7af63eda35baf1ee6ec6cc419dd0bb28dee48e0e91c81f2d759ec58009a9580b",
+        "candidates": [
+          {
+            "id": "MN-0111-0301",
+            "name": "Pete Stauber",
+            "party": "R",
+            "votes": 190744
+          },
+          {
+            "id": "MN-0111-0402",
+            "name": "Trina Swanson",
+            "party": "DFL",
+            "votes": 168350
+          },
+          {
+            "id": "MN-0111-9901",
+            "name": "WRITE-IN",
+            "party": "WI",
+            "votes": 359
+          }
+        ],
+        "totalVotes": 359453,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 834,
+          "total": 834
+        }
+      },
       "calls": [],
       "certification": null
     },
@@ -2741,7 +3003,51 @@
       "office": "senate",
       "label": "U.S. Senate · Class II",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "mn-sos",
+        "url": "https://electionresultsfiles.sos.mn.gov/20261103/ussenate.txt",
+        "retrievedAt": "2026-11-04T19:11:53Z",
+        "sourceUpdatedAt": "2026-11-04T19:08:21Z",
+        "sha256": "b2325d2b12210594de5d96a1a2fbaabaf76fddd52d0c60d750ea312fbb2715c0",
+        "candidates": [
+          {
+            "id": "MN-0102-1001",
+            "name": "Marisa Simonetti",
+            "party": "IND",
+            "votes": 41573
+          },
+          {
+            "id": "MN-0102-1102",
+            "name": "Rebecca Whiting",
+            "party": "LIB",
+            "votes": 32492
+          },
+          {
+            "id": "MN-0102-0403",
+            "name": "Peggy Flanagan",
+            "party": "DFL",
+            "votes": 1520867
+          },
+          {
+            "id": "MN-0102-0304",
+            "name": "Michele Tafoya",
+            "party": "R",
+            "votes": 1233470
+          },
+          {
+            "id": "MN-0102-9901",
+            "name": "WRITE-IN",
+            "party": "WI",
+            "votes": 3378
+          }
+        ],
+        "totalVotes": 2831780,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 4105,
+          "total": 4105
+        }
+      },
       "calls": [],
       "certification": null
     },
@@ -2751,7 +3057,45 @@
       "office": "governor",
       "label": "Governor",
       "special": false,
-      "official": null,
+      "official": {
+        "sourceId": "mn-sos",
+        "url": "https://electionresultsfiles.sos.mn.gov/20261103/Governor.txt",
+        "retrievedAt": "2026-11-04T19:11:53Z",
+        "sourceUpdatedAt": "2026-11-04T19:08:24Z",
+        "sha256": "62982b77e3c465b721e2ff907d1bc11841b7ac11d6d75bcff89b0f9666067bb7",
+        "candidates": [
+          {
+            "id": "MN-0331-0901",
+            "name": "Steven Young and Jane Kirby",
+            "party": "GP",
+            "votes": 51402
+          },
+          {
+            "id": "MN-0331-0402",
+            "name": "Amy Klobuchar and Ben Schierer",
+            "party": "DFL",
+            "votes": 1569696
+          },
+          {
+            "id": "MN-0331-0303",
+            "name": "Lisa Demuth and Ryan Wilson",
+            "party": "R",
+            "votes": 1206582
+          },
+          {
+            "id": "MN-0331-9901",
+            "name": "WRITE-IN",
+            "party": "WI",
+            "votes": 2474
+          }
+        ],
+        "totalVotes": 2830154,
+        "reporting": {
+          "kind": "precincts",
+          "counted": 4105,
+          "total": 4105
+        }
+      },
       "calls": [],
       "certification": null
     },
@@ -3514,7 +3858,7 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T15:02:09Z",
+        "retrievedAt": "2026-11-04T19:11:56Z",
         "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
@@ -3556,7 +3900,7 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T15:02:09Z",
+        "retrievedAt": "2026-11-04T19:11:56Z",
         "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
@@ -3604,7 +3948,7 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T15:02:09Z",
+        "retrievedAt": "2026-11-04T19:11:56Z",
         "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
@@ -3646,7 +3990,7 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T15:02:09Z",
+        "retrievedAt": "2026-11-04T19:11:56Z",
         "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
@@ -3688,7 +4032,7 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T15:02:09Z",
+        "retrievedAt": "2026-11-04T19:11:56Z",
         "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
@@ -3730,7 +4074,7 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T15:02:09Z",
+        "retrievedAt": "2026-11-04T19:11:56Z",
         "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
@@ -3766,7 +4110,7 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T15:02:09Z",
+        "retrievedAt": "2026-11-04T19:11:56Z",
         "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
@@ -3808,7 +4152,7 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T15:02:09Z",
+        "retrievedAt": "2026-11-04T19:11:56Z",
         "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
@@ -3850,7 +4194,7 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T15:02:09Z",
+        "retrievedAt": "2026-11-04T19:11:56Z",
         "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
@@ -3886,7 +4230,7 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T15:02:09Z",
+        "retrievedAt": "2026-11-04T19:11:56Z",
         "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
@@ -3928,7 +4272,7 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T15:02:09Z",
+        "retrievedAt": "2026-11-04T19:11:56Z",
         "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
@@ -3970,7 +4314,7 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T15:02:09Z",
+        "retrievedAt": "2026-11-04T19:11:56Z",
         "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
@@ -4006,7 +4350,7 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T15:02:09Z",
+        "retrievedAt": "2026-11-04T19:11:56Z",
         "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
@@ -4048,7 +4392,7 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T15:02:09Z",
+        "retrievedAt": "2026-11-04T19:11:56Z",
         "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
@@ -4084,7 +4428,7 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T15:02:09Z",
+        "retrievedAt": "2026-11-04T19:11:56Z",
         "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
