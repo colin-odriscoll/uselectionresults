@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "electionDate": "2026-11-03",
-  "generatedAt": "2026-11-04T04:11:08Z",
+  "generatedAt": "2026-11-04T05:12:31Z",
   "states": [
     {
       "code": "AL",
@@ -3514,33 +3514,33 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T04:11:08Z",
-        "sourceUpdatedAt": "2026-11-04T04:01:44Z",
-        "sha256": "5288be6acde80e683580031cb0d68c24263414d872dc3a21ce8b7ba0a7f64378",
+        "retrievedAt": "2026-11-04T05:12:31Z",
+        "sourceUpdatedAt": "2026-11-04T05:12:07Z",
+        "sha256": "4149426b7ec7f0966e157bdee1db3ae66c50c847e834625dd475ecfa687513c8",
         "candidates": [
           {
             "id": "NC-1369-8908a436378a6d78",
             "name": "Don Davis",
             "party": "DEM",
-            "votes": 148204
+            "votes": 151133
           },
           {
             "id": "NC-1369-0adb39a11fc6d01b",
             "name": "Laurie Buckhout",
             "party": "REP",
-            "votes": 141873
+            "votes": 143539
           },
           {
             "id": "NC-1369-2746e6a8f80eca2b",
             "name": "Tom Bailey",
             "party": "LIB",
-            "votes": 9613
+            "votes": 9765
           }
         ],
-        "totalVotes": 299690,
+        "totalVotes": 304437,
         "reporting": {
           "kind": "precincts",
-          "counted": 289,
+          "counted": 290,
           "total": 290
         }
       },
@@ -3556,39 +3556,39 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T04:11:08Z",
-        "sourceUpdatedAt": "2026-11-04T04:01:44Z",
-        "sha256": "5288be6acde80e683580031cb0d68c24263414d872dc3a21ce8b7ba0a7f64378",
+        "retrievedAt": "2026-11-04T05:12:31Z",
+        "sourceUpdatedAt": "2026-11-04T05:12:07Z",
+        "sha256": "4149426b7ec7f0966e157bdee1db3ae66c50c847e834625dd475ecfa687513c8",
         "candidates": [
           {
             "id": "NC-1370-56eb72404a4b9772",
             "name": "Deborah K. Ross",
             "party": "DEM",
-            "votes": 219775
+            "votes": 237610
           },
           {
             "id": "NC-1370-1bbc6451cdd25797",
             "name": "Eugene F. Douglass",
             "party": "REP",
-            "votes": 65908
+            "votes": 74684
           },
           {
             "id": "NC-1370-e100625fc250c2af",
             "name": "Matthew Laszacs",
             "party": "LIB",
-            "votes": 3458
+            "votes": 4066
           },
           {
             "id": "NC-1370-fe52cc36f157e341",
             "name": "Write-In (Miscellaneous)",
             "party": "Unknown",
-            "votes": 435
+            "votes": 509
           }
         ],
-        "totalVotes": 289576,
+        "totalVotes": 316869,
         "reporting": {
           "kind": "precincts",
-          "counted": 106,
+          "counted": 142,
           "total": 156
         }
       },
@@ -3604,33 +3604,33 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T04:11:08Z",
-        "sourceUpdatedAt": "2026-11-04T04:01:44Z",
-        "sha256": "5288be6acde80e683580031cb0d68c24263414d872dc3a21ce8b7ba0a7f64378",
+        "retrievedAt": "2026-11-04T05:12:31Z",
+        "sourceUpdatedAt": "2026-11-04T05:12:07Z",
+        "sha256": "4149426b7ec7f0966e157bdee1db3ae66c50c847e834625dd475ecfa687513c8",
         "candidates": [
           {
             "id": "NC-1371-5848b5da0361798f",
             "name": "Greg Murphy",
             "party": "REP",
-            "votes": 108810
+            "votes": 117583
           },
           {
             "id": "NC-1371-f51ce9f178c31ac2",
             "name": "Raymond Smith",
             "party": "DEM",
-            "votes": 103868
+            "votes": 117350
           },
           {
             "id": "NC-1371-78132c90280aa96a",
             "name": "Daniel Cavender",
             "party": "LIB",
-            "votes": 2721
+            "votes": 2971
           }
         ],
-        "totalVotes": 215399,
+        "totalVotes": 237904,
         "reporting": {
           "kind": "precincts",
-          "counted": 187,
+          "counted": 190,
           "total": 190
         }
       },
@@ -3646,33 +3646,33 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T04:11:08Z",
-        "sourceUpdatedAt": "2026-11-04T04:01:44Z",
-        "sha256": "5288be6acde80e683580031cb0d68c24263414d872dc3a21ce8b7ba0a7f64378",
+        "retrievedAt": "2026-11-04T05:12:31Z",
+        "sourceUpdatedAt": "2026-11-04T05:12:07Z",
+        "sha256": "4149426b7ec7f0966e157bdee1db3ae66c50c847e834625dd475ecfa687513c8",
         "candidates": [
           {
             "id": "NC-1372-a20db416c133cf2c",
             "name": "Valerie P. Foushee",
             "party": "DEM",
-            "votes": 277641
+            "votes": 283255
           },
           {
             "id": "NC-1372-53d68e960a63ba4c",
             "name": "Mahesh (Max) Ganorkar",
             "party": "REP",
-            "votes": 65199
+            "votes": 67799
           },
           {
             "id": "NC-1372-a173b8a9c6c106c3",
             "name": "Guy Meilleur",
             "party": "LIB",
-            "votes": 6706
+            "votes": 6961
           }
         ],
-        "totalVotes": 349546,
+        "totalVotes": 358015,
         "reporting": {
           "kind": "precincts",
-          "counted": 133,
+          "counted": 142,
           "total": 142
         }
       },
@@ -3688,33 +3688,33 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T04:11:08Z",
-        "sourceUpdatedAt": "2026-11-04T04:01:44Z",
-        "sha256": "5288be6acde80e683580031cb0d68c24263414d872dc3a21ce8b7ba0a7f64378",
+        "retrievedAt": "2026-11-04T05:12:31Z",
+        "sourceUpdatedAt": "2026-11-04T05:12:07Z",
+        "sha256": "4149426b7ec7f0966e157bdee1db3ae66c50c847e834625dd475ecfa687513c8",
         "candidates": [
-          {
-            "id": "NC-1373-59c8270ba9a0aece",
-            "name": "Virginia Foxx",
-            "party": "REP",
-            "votes": 135800
-          },
           {
             "id": "NC-1373-ad69dea902f5d7f3",
             "name": "Chuck Hubbard",
             "party": "DEM",
-            "votes": 134142
+            "votes": 139034
+          },
+          {
+            "id": "NC-1373-59c8270ba9a0aece",
+            "name": "Virginia Foxx",
+            "party": "REP",
+            "votes": 138935
           },
           {
             "id": "NC-1373-407f4a987ec3bf65",
             "name": "Robert B. Luffman",
             "party": "LIB",
-            "votes": 7286
+            "votes": 7529
           }
         ],
-        "totalVotes": 277228,
+        "totalVotes": 285498,
         "reporting": {
           "kind": "precincts",
-          "counted": 210,
+          "counted": 230,
           "total": 230
         }
       },
@@ -3730,27 +3730,27 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T04:11:08Z",
-        "sourceUpdatedAt": "2026-11-04T04:01:44Z",
-        "sha256": "5288be6acde80e683580031cb0d68c24263414d872dc3a21ce8b7ba0a7f64378",
+        "retrievedAt": "2026-11-04T05:12:31Z",
+        "sourceUpdatedAt": "2026-11-04T05:12:07Z",
+        "sha256": "4149426b7ec7f0966e157bdee1db3ae66c50c847e834625dd475ecfa687513c8",
         "candidates": [
           {
             "id": "NC-1374-2c6e7133c5eed2dd",
             "name": "Cyril Jefferson",
             "party": "DEM",
-            "votes": 135533
+            "votes": 140001
           },
           {
             "id": "NC-1374-55254339e8b66db0",
             "name": "Addison McDowell",
             "party": "REP",
-            "votes": 131499
+            "votes": 133737
           }
         ],
-        "totalVotes": 267032,
+        "totalVotes": 273738,
         "reporting": {
           "kind": "precincts",
-          "counted": 181,
+          "counted": 195,
           "total": 195
         }
       },
@@ -3766,33 +3766,33 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T04:11:08Z",
-        "sourceUpdatedAt": "2026-11-04T04:01:44Z",
-        "sha256": "5288be6acde80e683580031cb0d68c24263414d872dc3a21ce8b7ba0a7f64378",
+        "retrievedAt": "2026-11-04T05:12:31Z",
+        "sourceUpdatedAt": "2026-11-04T05:12:07Z",
+        "sha256": "4149426b7ec7f0966e157bdee1db3ae66c50c847e834625dd475ecfa687513c8",
         "candidates": [
           {
             "id": "NC-1375-7047d01acfae96fa",
             "name": "David Rouzer",
             "party": "REP",
-            "votes": 155235
+            "votes": 158914
           },
           {
             "id": "NC-1375-9cde24fc463bc1f4",
             "name": "Kimberly Hardy",
             "party": "DEM",
-            "votes": 153205
+            "votes": 157076
           },
           {
             "id": "NC-1375-220ab84ed879c98d",
             "name": "Maad Abu-Ghazalah",
             "party": "LIB",
-            "votes": 3007
+            "votes": 3113
           }
         ],
-        "totalVotes": 311447,
+        "totalVotes": 319103,
         "reporting": {
           "kind": "precincts",
-          "counted": 169,
+          "counted": 181,
           "total": 183
         }
       },
@@ -3808,33 +3808,33 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T04:11:08Z",
-        "sourceUpdatedAt": "2026-11-04T04:01:44Z",
-        "sha256": "5288be6acde80e683580031cb0d68c24263414d872dc3a21ce8b7ba0a7f64378",
+        "retrievedAt": "2026-11-04T05:12:31Z",
+        "sourceUpdatedAt": "2026-11-04T05:12:07Z",
+        "sha256": "4149426b7ec7f0966e157bdee1db3ae66c50c847e834625dd475ecfa687513c8",
         "candidates": [
           {
             "id": "NC-1376-ad787e4d84a8f0dc",
             "name": "Mark Harris",
             "party": "REP",
-            "votes": 146723
+            "votes": 147094
           },
           {
             "id": "NC-1376-563fbeda7d128247",
             "name": "Colby Watson",
             "party": "DEM",
-            "votes": 141453
+            "votes": 141915
           },
           {
             "id": "NC-1376-0a2810a9ab7bbefa",
             "name": "Bo Whitehead",
             "party": "GRE",
-            "votes": 2871
+            "votes": 2890
           }
         ],
-        "totalVotes": 291047,
+        "totalVotes": 291899,
         "reporting": {
           "kind": "precincts",
-          "counted": 192,
+          "counted": 193,
           "total": 193
         }
       },
@@ -3850,27 +3850,27 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T04:11:08Z",
-        "sourceUpdatedAt": "2026-11-04T04:01:44Z",
-        "sha256": "5288be6acde80e683580031cb0d68c24263414d872dc3a21ce8b7ba0a7f64378",
+        "retrievedAt": "2026-11-04T05:12:31Z",
+        "sourceUpdatedAt": "2026-11-04T05:12:07Z",
+        "sha256": "4149426b7ec7f0966e157bdee1db3ae66c50c847e834625dd475ecfa687513c8",
         "candidates": [
           {
             "id": "NC-1377-325cb8f251fa0628",
             "name": "Richard N. Ojeda II",
             "party": "DEM",
-            "votes": 133005
+            "votes": 138707
           },
           {
             "id": "NC-1377-b6962ff82646a570",
             "name": "Richard Hudson",
             "party": "REP",
-            "votes": 127871
+            "votes": 132692
           }
         ],
-        "totalVotes": 260876,
+        "totalVotes": 271399,
         "reporting": {
           "kind": "precincts",
-          "counted": 152,
+          "counted": 169,
           "total": 169
         }
       },
@@ -3886,9 +3886,9 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T04:11:08Z",
-        "sourceUpdatedAt": "2026-11-04T04:01:44Z",
-        "sha256": "5288be6acde80e683580031cb0d68c24263414d872dc3a21ce8b7ba0a7f64378",
+        "retrievedAt": "2026-11-04T05:12:31Z",
+        "sourceUpdatedAt": "2026-11-04T05:12:07Z",
+        "sha256": "4149426b7ec7f0966e157bdee1db3ae66c50c847e834625dd475ecfa687513c8",
         "candidates": [
           {
             "id": "NC-1378-fdd3b3e6930c312e",
@@ -3928,9 +3928,9 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T04:11:08Z",
-        "sourceUpdatedAt": "2026-11-04T04:01:44Z",
-        "sha256": "5288be6acde80e683580031cb0d68c24263414d872dc3a21ce8b7ba0a7f64378",
+        "retrievedAt": "2026-11-04T05:12:31Z",
+        "sourceUpdatedAt": "2026-11-04T05:12:07Z",
+        "sha256": "4149426b7ec7f0966e157bdee1db3ae66c50c847e834625dd475ecfa687513c8",
         "candidates": [
           {
             "id": "NC-1379-40c0cb750318f94a",
@@ -3970,27 +3970,27 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T04:11:08Z",
-        "sourceUpdatedAt": "2026-11-04T04:01:44Z",
-        "sha256": "5288be6acde80e683580031cb0d68c24263414d872dc3a21ce8b7ba0a7f64378",
+        "retrievedAt": "2026-11-04T05:12:31Z",
+        "sourceUpdatedAt": "2026-11-04T05:12:07Z",
+        "sha256": "4149426b7ec7f0966e157bdee1db3ae66c50c847e834625dd475ecfa687513c8",
         "candidates": [
           {
             "id": "NC-1380-37f879f6fad00e10",
             "name": "Alma S. Adams",
             "party": "DEM",
-            "votes": 213297
+            "votes": 219672
           },
           {
             "id": "NC-1380-35ad108c8bcea527",
             "name": "Jack Codiga",
             "party": "REP",
-            "votes": 49429
+            "votes": 50864
           }
         ],
-        "totalVotes": 262726,
+        "totalVotes": 270536,
         "reporting": {
           "kind": "precincts",
-          "counted": 137,
+          "counted": 145,
           "total": 145
         }
       },
@@ -4006,33 +4006,33 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T04:11:08Z",
-        "sourceUpdatedAt": "2026-11-04T04:01:44Z",
-        "sha256": "5288be6acde80e683580031cb0d68c24263414d872dc3a21ce8b7ba0a7f64378",
+        "retrievedAt": "2026-11-04T05:12:31Z",
+        "sourceUpdatedAt": "2026-11-04T05:12:07Z",
+        "sha256": "4149426b7ec7f0966e157bdee1db3ae66c50c847e834625dd475ecfa687513c8",
         "candidates": [
           {
             "id": "NC-1381-351789749423d1ba",
             "name": "Paul Barringer",
             "party": "DEM",
-            "votes": 156941
+            "votes": 159981
           },
           {
             "id": "NC-1381-565e7378876ec858",
             "name": "Brad Knott",
             "party": "REP",
-            "votes": 147914
+            "votes": 152329
           },
           {
             "id": "NC-1381-272dedaaa146139d",
             "name": "Steven Swinton",
             "party": "LIB",
-            "votes": 4327
+            "votes": 4479
           }
         ],
-        "totalVotes": 309182,
+        "totalVotes": 316789,
         "reporting": {
           "kind": "precincts",
-          "counted": 131,
+          "counted": 140,
           "total": 140
         }
       },
@@ -4048,27 +4048,27 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T04:11:08Z",
-        "sourceUpdatedAt": "2026-11-04T04:01:44Z",
-        "sha256": "5288be6acde80e683580031cb0d68c24263414d872dc3a21ce8b7ba0a7f64378",
+        "retrievedAt": "2026-11-04T05:12:31Z",
+        "sourceUpdatedAt": "2026-11-04T05:12:07Z",
+        "sha256": "4149426b7ec7f0966e157bdee1db3ae66c50c847e834625dd475ecfa687513c8",
         "candidates": [
           {
             "id": "NC-1382-060b103795d2b08e",
             "name": "Lakesha Womack",
             "party": "DEM",
-            "votes": 145400
+            "votes": 147388
           },
           {
             "id": "NC-1382-fa05480d907fa431",
             "name": "Tim Moore",
             "party": "REP",
-            "votes": 140237
+            "votes": 140973
           }
         ],
-        "totalVotes": 285637,
+        "totalVotes": 288361,
         "reporting": {
           "kind": "precincts",
-          "counted": 140,
+          "counted": 142,
           "total": 142
         }
       },
@@ -4084,39 +4084,39 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T04:11:08Z",
-        "sourceUpdatedAt": "2026-11-04T04:01:44Z",
-        "sha256": "5288be6acde80e683580031cb0d68c24263414d872dc3a21ce8b7ba0a7f64378",
+        "retrievedAt": "2026-11-04T05:12:31Z",
+        "sourceUpdatedAt": "2026-11-04T05:12:07Z",
+        "sha256": "4149426b7ec7f0966e157bdee1db3ae66c50c847e834625dd475ecfa687513c8",
         "candidates": [
           {
             "id": "NC-1383-df344a90c67f855c",
             "name": "Roy Cooper",
             "party": "DEM",
-            "votes": 2380454
+            "votes": 2453913
           },
           {
             "id": "NC-1383-e0dee75def680a9a",
             "name": "Michael Whatley",
             "party": "REP",
-            "votes": 1598498
+            "votes": 1637481
           },
           {
             "id": "NC-1383-1f807ffebfa5148e",
             "name": "Shannon W. Bray",
             "party": "LIB",
-            "votes": 53661
+            "votes": 55537
           },
           {
             "id": "NC-1383-273cf163df09c047",
             "name": "Michael Dublin",
             "party": "GRE",
-            "votes": 34990
+            "votes": 36284
           }
         ],
-        "totalVotes": 4067603,
+        "totalVotes": 4183215,
         "reporting": {
           "kind": "precincts",
-          "counted": 2479,
+          "counted": 2610,
           "total": 2626
         }
       },
