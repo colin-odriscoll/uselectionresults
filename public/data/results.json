@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "electionDate": "2026-11-03",
-  "generatedAt": "2026-11-04T14:07:18Z",
+  "generatedAt": "2026-11-04T15:02:09Z",
   "states": [
     {
       "code": "AL",
@@ -3514,8 +3514,8 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T14:07:18Z",
-        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "retrievedAt": "2026-11-04T15:02:09Z",
+        "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
@@ -3556,8 +3556,8 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T14:07:18Z",
-        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "retrievedAt": "2026-11-04T15:02:09Z",
+        "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
@@ -3604,8 +3604,8 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T14:07:18Z",
-        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "retrievedAt": "2026-11-04T15:02:09Z",
+        "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
@@ -3646,8 +3646,8 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T14:07:18Z",
-        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "retrievedAt": "2026-11-04T15:02:09Z",
+        "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
@@ -3688,8 +3688,8 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T14:07:18Z",
-        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "retrievedAt": "2026-11-04T15:02:09Z",
+        "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
@@ -3730,8 +3730,8 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T14:07:18Z",
-        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "retrievedAt": "2026-11-04T15:02:09Z",
+        "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
@@ -3766,8 +3766,8 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T14:07:18Z",
-        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "retrievedAt": "2026-11-04T15:02:09Z",
+        "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
@@ -3808,8 +3808,8 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T14:07:18Z",
-        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "retrievedAt": "2026-11-04T15:02:09Z",
+        "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
@@ -3850,8 +3850,8 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T14:07:18Z",
-        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "retrievedAt": "2026-11-04T15:02:09Z",
+        "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
@@ -3886,8 +3886,8 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T14:07:18Z",
-        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "retrievedAt": "2026-11-04T15:02:09Z",
+        "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
@@ -3928,8 +3928,8 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T14:07:18Z",
-        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "retrievedAt": "2026-11-04T15:02:09Z",
+        "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
@@ -3970,8 +3970,8 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T14:07:18Z",
-        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "retrievedAt": "2026-11-04T15:02:09Z",
+        "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
@@ -4006,8 +4006,8 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T14:07:18Z",
-        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "retrievedAt": "2026-11-04T15:02:09Z",
+        "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
@@ -4048,8 +4048,8 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T14:07:18Z",
-        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "retrievedAt": "2026-11-04T15:02:09Z",
+        "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
@@ -4084,8 +4084,8 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T14:07:18Z",
-        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "retrievedAt": "2026-11-04T15:02:09Z",
+        "sourceUpdatedAt": "2026-11-04T11:40:31Z",
         "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
