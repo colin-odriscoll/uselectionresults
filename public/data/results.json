@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "electionDate": "2026-11-03",
-  "generatedAt": "2026-11-04T07:39:55Z",
+  "generatedAt": "2026-11-04T11:52:22Z",
   "states": [
     {
       "code": "AL",
@@ -3514,30 +3514,30 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T07:39:55Z",
-        "sourceUpdatedAt": "2026-11-04T05:59:33Z",
-        "sha256": "fc7c441641405012fdfc4d83e7f123b0f0177cc948d7d9591173a94e7d692333",
+        "retrievedAt": "2026-11-04T11:52:21Z",
+        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
             "id": "NC-1369-8908a436378a6d78",
             "name": "Don Davis",
             "party": "DEM",
-            "votes": 151133
+            "votes": 156564
           },
           {
             "id": "NC-1369-0adb39a11fc6d01b",
             "name": "Laurie Buckhout",
             "party": "REP",
-            "votes": 143539
+            "votes": 146259
           },
           {
             "id": "NC-1369-2746e6a8f80eca2b",
             "name": "Tom Bailey",
             "party": "LIB",
-            "votes": 9765
+            "votes": 9880
           }
         ],
-        "totalVotes": 304437,
+        "totalVotes": 312703,
         "reporting": {
           "kind": "precincts",
           "counted": 290,
@@ -3556,9 +3556,9 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T07:39:55Z",
-        "sourceUpdatedAt": "2026-11-04T05:59:33Z",
-        "sha256": "fc7c441641405012fdfc4d83e7f123b0f0177cc948d7d9591173a94e7d692333",
+        "retrievedAt": "2026-11-04T11:52:21Z",
+        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
             "id": "NC-1370-56eb72404a4b9772",
@@ -3604,9 +3604,9 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T07:39:55Z",
-        "sourceUpdatedAt": "2026-11-04T05:59:33Z",
-        "sha256": "fc7c441641405012fdfc4d83e7f123b0f0177cc948d7d9591173a94e7d692333",
+        "retrievedAt": "2026-11-04T11:52:21Z",
+        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
             "id": "NC-1371-5848b5da0361798f",
@@ -3646,9 +3646,9 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T07:39:55Z",
-        "sourceUpdatedAt": "2026-11-04T05:59:33Z",
-        "sha256": "fc7c441641405012fdfc4d83e7f123b0f0177cc948d7d9591173a94e7d692333",
+        "retrievedAt": "2026-11-04T11:52:21Z",
+        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
             "id": "NC-1372-a20db416c133cf2c",
@@ -3688,9 +3688,9 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T07:39:55Z",
-        "sourceUpdatedAt": "2026-11-04T05:59:33Z",
-        "sha256": "fc7c441641405012fdfc4d83e7f123b0f0177cc948d7d9591173a94e7d692333",
+        "retrievedAt": "2026-11-04T11:52:21Z",
+        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
             "id": "NC-1373-ad69dea902f5d7f3",
@@ -3730,9 +3730,9 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T07:39:55Z",
-        "sourceUpdatedAt": "2026-11-04T05:59:33Z",
-        "sha256": "fc7c441641405012fdfc4d83e7f123b0f0177cc948d7d9591173a94e7d692333",
+        "retrievedAt": "2026-11-04T11:52:21Z",
+        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
             "id": "NC-1374-2c6e7133c5eed2dd",
@@ -3766,9 +3766,9 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T07:39:55Z",
-        "sourceUpdatedAt": "2026-11-04T05:59:33Z",
-        "sha256": "fc7c441641405012fdfc4d83e7f123b0f0177cc948d7d9591173a94e7d692333",
+        "retrievedAt": "2026-11-04T11:52:21Z",
+        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
             "id": "NC-1375-7047d01acfae96fa",
@@ -3808,9 +3808,9 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T07:39:55Z",
-        "sourceUpdatedAt": "2026-11-04T05:59:33Z",
-        "sha256": "fc7c441641405012fdfc4d83e7f123b0f0177cc948d7d9591173a94e7d692333",
+        "retrievedAt": "2026-11-04T11:52:21Z",
+        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
             "id": "NC-1376-ad787e4d84a8f0dc",
@@ -3850,9 +3850,9 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T07:39:55Z",
-        "sourceUpdatedAt": "2026-11-04T05:59:33Z",
-        "sha256": "fc7c441641405012fdfc4d83e7f123b0f0177cc948d7d9591173a94e7d692333",
+        "retrievedAt": "2026-11-04T11:52:21Z",
+        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
             "id": "NC-1377-325cb8f251fa0628",
@@ -3886,9 +3886,9 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T07:39:55Z",
-        "sourceUpdatedAt": "2026-11-04T05:59:33Z",
-        "sha256": "fc7c441641405012fdfc4d83e7f123b0f0177cc948d7d9591173a94e7d692333",
+        "retrievedAt": "2026-11-04T11:52:21Z",
+        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
             "id": "NC-1378-fdd3b3e6930c312e",
@@ -3928,9 +3928,9 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T07:39:55Z",
-        "sourceUpdatedAt": "2026-11-04T05:59:33Z",
-        "sha256": "fc7c441641405012fdfc4d83e7f123b0f0177cc948d7d9591173a94e7d692333",
+        "retrievedAt": "2026-11-04T11:52:21Z",
+        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
             "id": "NC-1379-40c0cb750318f94a",
@@ -3970,9 +3970,9 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T07:39:55Z",
-        "sourceUpdatedAt": "2026-11-04T05:59:33Z",
-        "sha256": "fc7c441641405012fdfc4d83e7f123b0f0177cc948d7d9591173a94e7d692333",
+        "retrievedAt": "2026-11-04T11:52:21Z",
+        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
             "id": "NC-1380-37f879f6fad00e10",
@@ -4006,9 +4006,9 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T07:39:55Z",
-        "sourceUpdatedAt": "2026-11-04T05:59:33Z",
-        "sha256": "fc7c441641405012fdfc4d83e7f123b0f0177cc948d7d9591173a94e7d692333",
+        "retrievedAt": "2026-11-04T11:52:21Z",
+        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
             "id": "NC-1381-351789749423d1ba",
@@ -4048,9 +4048,9 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T07:39:55Z",
-        "sourceUpdatedAt": "2026-11-04T05:59:33Z",
-        "sha256": "fc7c441641405012fdfc4d83e7f123b0f0177cc948d7d9591173a94e7d692333",
+        "retrievedAt": "2026-11-04T11:52:21Z",
+        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
             "id": "NC-1382-060b103795d2b08e",
@@ -4084,36 +4084,36 @@
       "official": {
         "sourceId": "nc-sbe",
         "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt",
-        "retrievedAt": "2026-11-04T07:39:55Z",
-        "sourceUpdatedAt": "2026-11-04T05:59:33Z",
-        "sha256": "fc7c441641405012fdfc4d83e7f123b0f0177cc948d7d9591173a94e7d692333",
+        "retrievedAt": "2026-11-04T11:52:21Z",
+        "sourceUpdatedAt": "2026-11-04T11:35:33Z",
+        "sha256": "e5340812f19b70c205a7257b993786623b0f96da043d38206d9949bf2ea744ef",
         "candidates": [
           {
             "id": "NC-1383-df344a90c67f855c",
             "name": "Roy Cooper",
             "party": "DEM",
-            "votes": 2462440
+            "votes": 2467963
           },
           {
             "id": "NC-1383-e0dee75def680a9a",
             "name": "Michael Whatley",
             "party": "REP",
-            "votes": 1640368
+            "votes": 1643088
           },
           {
             "id": "NC-1383-1f807ffebfa5148e",
             "name": "Shannon W. Bray",
             "party": "LIB",
-            "votes": 55718
+            "votes": 55726
           },
           {
             "id": "NC-1383-273cf163df09c047",
             "name": "Michael Dublin",
             "party": "GRE",
-            "votes": 36426
+            "votes": 36404
           }
         ],
-        "totalVotes": 4194952,
+        "totalVotes": 4203181,
         "reporting": {
           "kind": "precincts",
           "counted": 2626,
