@@ -1,33 +1,33 @@
 {
-  "checkedAt": "2026-11-06T03:02:01Z",
+  "checkedAt": "2026-11-06T04:04:38Z",
   "sources": [
     {
       "sourceId": "mn-sos",
-      "checkedAt": "2026-11-06T03:01:54Z",
+      "checkedAt": "2026-11-06T04:04:31Z",
       "status": "error",
       "message": "Official site requires a CAPTCHA; automated collection blocked Previous validated data retained."
     },
     {
       "sourceId": "nc-sbe",
-      "checkedAt": "2026-11-06T03:02:00Z",
+      "checkedAt": "2026-11-06T04:04:37Z",
       "status": "error",
       "message": "Source timestamp regressed Previous validated data retained."
     },
     {
       "sourceId": "ap",
-      "checkedAt": "2026-11-06T03:02:01Z",
+      "checkedAt": "2026-11-06T04:04:38Z",
       "status": "disabled",
       "message": "Licensed API access required; no AP ingestion configured."
     },
     {
       "sourceId": "cnn",
-      "checkedAt": "2026-11-06T03:02:01Z",
+      "checkedAt": "2026-11-06T04:04:38Z",
       "status": "disabled",
       "message": "No authorized machine-readable race-call feed verified. Evidence-linked manual calls only."
     },
     {
       "sourceId": "fox",
-      "checkedAt": "2026-11-06T03:02:01Z",
+      "checkedAt": "2026-11-06T04:04:38Z",
       "status": "disabled",
       "message": "No authorized machine-readable race-call feed verified. Evidence-linked manual calls only."
     }
